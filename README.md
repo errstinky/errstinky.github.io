@@ -1,4 +1,4 @@
 errstinky.github.io
 ===================
 
-transform paper documents for the cloud
+grab text from anything
