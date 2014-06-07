@@ -681,6 +681,11 @@ header h1 {
   -o-text-overflow: ellipsis;
   -ms-text-overflow: ellipsis;
 }
+
+header h2 {
+box-shadow:2px 2px 3px #26FFDB;
+}
+
 header p {
   color: #d8d8d8;
   text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
