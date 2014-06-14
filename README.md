@@ -1,4 +1,4 @@
 errstinky.github.io
 ===================
 
-grab text from anything
+scribbly snap
