@@ -3,6 +3,21 @@ Leap Day for GitHub Pages
 by Matt Graham
 */
 
+boxed {
+  font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-size: 13px;
+  color: #efefef;
+  text-shadow: 0px 1px 0px #000;
+  margin: 0 4px;
+  padding: 2px 6px;
+  background: #333;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -o-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -khtml-border-radius: 2px;
+  border-radius: 2px;
+}
 
 @font-face {
   font-family: 'Quattrocento Sans';
@@ -979,22 +994,6 @@ footer {
   header ul {
     display: none;
   }
-
-boxed {
-  font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size: 13px;
-  color: #efefef;
-  text-shadow: 0px 1px 0px #000;
-  margin: 0 4px;
-  padding: 2px 6px;
-  background: #333;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  -o-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -khtml-border-radius: 2px;
-  border-radius: 2px;
-}
 
 }
 @media print {
