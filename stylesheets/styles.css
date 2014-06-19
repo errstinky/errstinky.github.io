@@ -4,6 +4,7 @@ by Matt Graham
 */
 
 boxed {
+  position: relative;
   background: #fff;
   font-size: 2em;
   width: 100%;
