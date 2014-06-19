@@ -5,12 +5,10 @@ by Matt Graham
 
 boxed {
   background: #fff;
-  font-size: 2em;
+  font-size: 3em;
   margin: 0.67em 0;
   padding: 40px;
   border: 1px solid #ddd;
-  float: right;
-  width: 50px;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
   box-sizing: border-box;
   -moz-border-radius: 2px;
