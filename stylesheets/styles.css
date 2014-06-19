@@ -7,8 +7,9 @@ boxed {
   background: #fff;
   font-size: 2em;
   margin: 0.67em 0;
-  padding: 60px;
+  padding: 40px;
   border: 1px solid #ddd;
+  width: 650px;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
   box-sizing: border-box;
   -moz-border-radius: 2px;
