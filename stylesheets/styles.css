@@ -771,7 +771,7 @@ header p {
 #banner .fork {
   position: fixed;
   left: 50%;
-  margin-left: -325px;
+  margin-left: 0%;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -780,7 +780,6 @@ header p {
 }
 #banner .fork2 {
   position: fixed;
-  float: right;
   left: 50%;
   margin-left: 25%;
   padding: 10px 12px;
@@ -791,7 +790,7 @@ header p {
 }
 #banner .fork3 {
   position: fixed;
-  right: 100%;
+  left: 50%;
   margin-left: -25%;
   padding: 10px 12px;
   margin-top: 6px;
@@ -801,7 +800,7 @@ header p {
 }
 #banner .fork4 {
   position: fixed;
-  left: 100%;
+  left: 50%;
   margin-left: -18%;
   padding: 10px 12px;
   margin-top: 6px;
