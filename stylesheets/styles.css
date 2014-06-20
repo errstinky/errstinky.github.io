@@ -774,6 +774,7 @@ header p {
   margin-left: -325px;
   padding: 10px 12px;
   margin-top: 6px;
+  width: 25%;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
@@ -957,7 +958,7 @@ footer {
   #banner .fork {
     float: left;
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 0px;
     position: fixed;
     left: 20px;
   }
