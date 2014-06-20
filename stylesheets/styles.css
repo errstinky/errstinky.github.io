@@ -782,6 +782,7 @@ header p {
   position: fixed;
   float: right;
   left: 50%;
+  margin-left: 275px;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -986,7 +987,6 @@ footer {
   }
   #banner .fork {
     float: left;
-    display: inline-block;
     margin-left: 0px;
     position: fixed;
     left: 20px;
