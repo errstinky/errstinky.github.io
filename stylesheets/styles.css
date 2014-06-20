@@ -769,12 +769,11 @@ header p {
   background-color: #ffeca0;
 }
 #banner .fork {
-  position: fixed;
+  position: relative;
   left: 50%;
   margin-left: -325px;
   padding: 10px 12px;
   margin-top: 6px;
-  width: 25%;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
