@@ -797,7 +797,8 @@ header p {
   background-color: #FFE788;
 }
 
-/*goes above left: 50%;
+/*above 
+  left: 50%;
   position: fixed;
   margin-left: 0%;
   padding: 10px 10%;*/
@@ -808,20 +809,20 @@ header p {
   line-height: 0
 }
 #banner .fork3 {
-  position: fixed;
-  left: 0%;
-  margin-left: 21%;
-  padding: 10px 12px;
+  vertical-align: top;
+  display: inline-block;
+  *display: inline;
+  zoom: 1
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
 }
 #banner .fork4 {
-  position: fixed;
-  left: 49%;
-  margin-left: 14%;
-  padding: 10px 12px;
+  vertical-align: top;
+  display: inline-block;
+  *display: inline;
+  zoom: 1
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
