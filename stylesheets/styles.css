@@ -791,8 +791,8 @@ header p {
 }
 #banner .fork3 {
   position: fixed;
-  left: -50%;
-  margin-left: 25%;
+  left: 50%;
+  margin-left: -25%;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
