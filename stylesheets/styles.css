@@ -808,10 +808,10 @@ header p {
   line-height: 0
 }
 #banner .fork3 {
-  position: fixed;
-  left: 0%;
-  margin-left: 21%;
-  padding: 10px 12px;
+  vertical-align: top;
+  display: inline-block;
+  *display: inline;
+  zoom: 1
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
