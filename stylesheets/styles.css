@@ -771,47 +771,35 @@ header p {
   background: linear-gradient(#ffe788, #ffe788);
   background-color: #ffeca0;
 }
-.box1, .box2, .box3, .box4 {
-    width: 150px;
-    height: 20px;
-    vertical-align: top;
-    display: inline-block;
-    *display: inline;
-    zoom: 1
-}
 #banner .fork {
   vertical-align: top;
   display: inline-block;
   *display: inline;
-  zoom: 1 
+  zoom: 1
+  position: fixed;
+  width: 25%;
+  left: 25%;
+  margin-left: -10%;
+  padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
-  width: 25%;
 }
-/* above 
-  left: 25%;
-  position: fixed;
-  margin-left: -10%;
-  padding: 10px 12px;*/
 #banner .fork2 {
   vertical-align: top;
   display: inline-block;
   *display: inline;
   zoom: 1
+  position: fixed;
+  left: 50%;
+  margin-left: 0%;
+  padding: 10px 10%;
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
-  width: 25%;
 }
-
-/*above 
-  left: 50%;
-  position: fixed;
-  margin-left: 0%;
-  padding: 10px 10%;*/
 .stretch {
   width: 100%;
   display: inline-block;
@@ -819,26 +807,24 @@ header p {
   line-height: 0
 }
 #banner .fork3 {
-  vertical-align: top;
-  display: inline-block;
-  *display: inline;
-  zoom: 1
+  position: fixed;
+  left: 0%;
+  margin-left: 21%;
+  padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
-  width: 25%;
 }
 #banner .fork4 {
-  vertical-align: top;
-  display: inline-block;
-  *display: inline;
-  zoom: 1
+  position: fixed;
+  left: 49%;
+  margin-left: 14%;
+  padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
-  width: 25%;
 }
 #banner .downloads {
   float: right;
