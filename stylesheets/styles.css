@@ -957,9 +957,9 @@ footer {
   #banner .fork {
     float: left;
     display: inline-block;
-    margin-left: 0px;
+    margin-left: 50px;
     position: fixed;
-    left: 60px;
+    left: 20px;
   }
 
   section {
