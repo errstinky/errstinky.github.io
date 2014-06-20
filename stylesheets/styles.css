@@ -770,7 +770,7 @@ header p {
 }
 #banner .fork {
   position: fixed;
-  float: left;
+  float: right;
   left: 50%;
   margin-left: -25%;
   padding: 10px 12px;
