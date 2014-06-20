@@ -709,6 +709,9 @@ header p {
 }
 
 #banner {
+  text-align: justify;
+  -ms-text-justify: distribute-all-lines;
+  text-justify: distribute-all-lines;
   z-index: 100;
   left: 0;
   right: 50%;
@@ -769,6 +772,10 @@ header p {
   background-color: #ffeca0;
 }
 #banner .fork {
+  vertical-align: top;
+  display: inline-block;
+  *display: inline;
+  zoom: 1
   position: fixed;
   width: 25%;
   left: 25%;
@@ -780,6 +787,10 @@ header p {
   background-color: #FFE788;
 }
 #banner .fork2 {
+  vertical-align: top;
+  display: inline-block;
+  *display: inline;
+  zoom: 1
   position: fixed;
   left: 50%;
   margin-left: 0%;
@@ -788,6 +799,12 @@ header p {
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
+}
+.stretch {
+  width: 100%;
+  display: inline-block;
+  font-size: 0;
+  line-height: 0
 }
 #banner .fork3 {
   position: fixed;
