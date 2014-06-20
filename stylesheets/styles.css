@@ -776,9 +776,9 @@ header p {
   display: inline-block;
   *display: inline;
   zoom: 1
-  position: fixed;
   width: 25%;
   /*left: 25%;
+  position: fixed;
   margin-left: -10%;*/
   padding: 10px 12px;
   margin-top: 6px;
