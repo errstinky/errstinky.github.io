@@ -791,15 +791,16 @@ header p {
   display: inline-block;
   *display: inline;
   zoom: 1
-  left: 50%;/*
-  position: fixed;
-  margin-left: 0%;
-  padding: 10px 10%;*/
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
 }
+
+/*goes above left: 50%;
+  position: fixed;
+  margin-left: 0%;
+  padding: 10px 10%;*/
 .stretch {
   width: 100%;
   display: inline-block;
