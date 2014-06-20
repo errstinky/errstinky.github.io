@@ -6,6 +6,7 @@ by Matt Graham
 boxed {
   box-sizing: border-box;
   width: 100%;
+  overflow: hidden;
   background: #fff;
   font-size: 1em;
   margin: 0.67em 0;
