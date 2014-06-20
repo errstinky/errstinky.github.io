@@ -771,6 +771,14 @@ header p {
   background: linear-gradient(#ffe788, #ffe788);
   background-color: #ffeca0;
 }
+.box1, .box2, .box3, .box4 {
+    width: 150px;
+    height: 125px;
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 1
+}
 #banner .fork {
   vertical-align: top;
   display: inline-block;
