@@ -46,7 +46,7 @@ boxed2 {
 
 boxed3 {
   box-sizing: border-box;
-  width: 50%;
+  width: 100%;
   display: block;
   background: #3e3b40;
   color: #fff;
@@ -57,12 +57,12 @@ boxed3 {
   padding: 10px;
   border: 1px solid #ddd;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  -o-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -khtml-border-radius: 2px;
-  border-radius: 2px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -o-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
 }
 
 @font-face {
