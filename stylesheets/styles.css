@@ -44,6 +44,27 @@ boxed2 {
   border-radius: 10px;
 }
 
+boxed3 {
+  box-sizing: border-box;
+  width: 50%;
+  display: block;
+  background: #3e3b40;
+  color: #fff;
+  font-size: 2.1em;
+  margin: 0.67em 0;
+  line-height: 100%;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -o-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
+}
+
 @font-face {
   font-family: 'Quattrocento Sans';
   src: url("../fonts/quattrocentosans-bold-webfont.eot");
