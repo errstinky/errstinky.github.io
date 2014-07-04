@@ -732,15 +732,15 @@ td:first-child {
   border-left: 1px solid #ffcc00;
 }
 
-/*hr {
+hr {
   border: 0;
   outline: none;
   height: 11px;
-  background: transparent url("../images/hr.gif") center center repeat-x;
+  background: transparent url("../images/hr2.gif") center center repeat-x;
   margin: 0 0 20px;
-}*/
+}
 
-hr {
+/*hr {
     -moz-border-bottom-colors: none;
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
@@ -752,7 +752,7 @@ hr {
     border-style: solid none;
     border-width: 1px 0;
     margin: 20px 0;
-}
+}*/
 
 dt {
   color: #444;
