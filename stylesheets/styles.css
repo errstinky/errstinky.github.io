@@ -935,7 +935,7 @@ header p {
     color: #333;
     font-weight: bold;
     /*display: inline-block;*/
-    text-align: top;
+    text-align: center;
 }
 
 /*goes above left: 50%;
