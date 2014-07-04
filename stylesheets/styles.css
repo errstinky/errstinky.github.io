@@ -876,7 +876,7 @@ header p {
   *display: inline;
   zoom: 1
   width: 25%;
-  left: 50%;
+  left: 100%;
   position: relative;
   /*margin-left: -10%;*/
   padding: 10px 12px;
