@@ -27,7 +27,12 @@ boxed2 {
   box-sizing: border-box;
   width: 75%;
   display: block;
-  background: #26c8cd;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+  background: -webkit-linear-gradient(#26c8cd, #40ffff);
+  background: -moz-linear-gradient(#26c8cd, #40ffff);
+  background: -o-linear-gradient(#26c8cd, #40ffff);
+  background: -ms-linear-gradient(#26c8cd, #40ffff);
+  background: linear-gradient(#26c8cd, #40ffff);
   color: #fff;
   font-size: 2.1em;
   margin: 0.67em 0;
