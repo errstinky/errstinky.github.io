@@ -233,7 +233,7 @@ a:active {
   outline: 0;
 }
 
-a:white {
+a.white {
   color: #fff;
 }
 
@@ -642,7 +642,7 @@ h3 {
 }
 
 a {
-  color: #666666;
+  color: #c0c0c0;
   font-weight: 400;
   text-decoration: none;
 }
