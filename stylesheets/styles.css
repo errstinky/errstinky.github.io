@@ -627,7 +627,7 @@ p, ul, ol, table, pre, dl {
 
 h1, h2, h3 {
   line-height: 1.1;
-}
+}  
 
 h1 {
   font-size: 28px;
@@ -876,9 +876,9 @@ header p {
   *display: inline;
   zoom: 1
   width: 25%;
-  /*left: 25%;
-  position: fixed;
-  margin-left: -10%;*/
+  left: 25%;
+  position: relative;
+  /*margin-left: -10%;*/
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
