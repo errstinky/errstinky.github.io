@@ -732,12 +732,26 @@ td:first-child {
   border-left: 1px solid #ffcc00;
 }
 
-hr {
+/*hr {
   border: 0;
   outline: none;
   height: 11px;
   background: transparent url("../images/hr.gif") center center repeat-x;
   margin: 0 0 20px;
+}*/
+
+hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #eeeeee -moz-use-text-color #ffffff;
+    border-image: none;
+    border-left: 0 none;
+    border-right: 0 none;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 20px 0;
 }
 
 dt {
