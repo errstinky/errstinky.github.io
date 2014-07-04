@@ -896,6 +896,15 @@ header p {
   background-color: #FFE788;
 }
 
+.box1, .box2, .box3, .box4 {
+    width: 150px;
+    height: 25px;
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 1
+}
+
 /*goes above left: 50%;
   position: fixed;
   margin-left: 0%;
