@@ -937,7 +937,7 @@ header p {
     /*display: inline-block;*/
     text-align: center;
 }      
-.box1:hover {
+.box1:hover, .box2:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
   background: -webkit-linear-gradient(#ffe788, #ffe788);
   background: -moz-linear-gradient(#ffe788, #ffe788);
@@ -946,7 +946,7 @@ header p {
   background: linear-gradient(#ffe788, #ffe788);
   background-color: #ffeca0;
 }       
-.box2:hover {
+/*.box2:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
   background: -webkit-linear-gradient(#ffe788, #ffe788);
   background: -moz-linear-gradient(#ffe788, #ffe788);
@@ -954,7 +954,7 @@ header p {
   background: -ms-linear-gradient(#ffe788, #ffe788);
   background: linear-gradient(#ffe788, #ffe788);
   background-color: #ffeca0;
-}   
+}   */
 .box3:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
   background: -webkit-linear-gradient(#ffe788, #ffe788);
