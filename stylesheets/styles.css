@@ -916,8 +916,8 @@ header p {
     margin-right: 5px;
     color: #333;                     
     font-weight: bold;
-    /*text-align: center;*/
-    line-height: 28px;
+    text-align: center;
+    line-height: 36px;
 }     
 .box1:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
