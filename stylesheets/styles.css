@@ -883,14 +883,13 @@ header p {
 }
 
 .box1, .box2, .box3, .box4 {
-    width: 118px;
+    width: 117px;
     height: 36px;
     display: inline-block;
     *display: inline;
     zoom: 1
     padding: 10px 12px;
     margin-top: 6px;
-    /*line-height: 14px;*/
     font-size: 14px;
     background-color: #FFE788;
 
