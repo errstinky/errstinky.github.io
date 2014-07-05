@@ -883,7 +883,7 @@ header p {
 }
 
 .box1, .box2, .box3, .box4 {
-    width: 114px;
+    width: 112px;
     height: 36px;
     display: inline-block;
     *display: inline;
