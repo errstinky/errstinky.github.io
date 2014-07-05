@@ -916,7 +916,7 @@ header p {
     margin-left: 5px;
     color: #333;                     
     font-weight: bold;
-    text-align: center;
+    text-align: middle;
 }     
 .box1:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
