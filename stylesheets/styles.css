@@ -885,7 +885,6 @@ header p {
 .box1, .box2, .box3, .box4 {
     width: 118px;
     height: 36px;
-    vertical-align: text-top;
     display: inline-block;
     *display: inline;
     zoom: 1
@@ -894,6 +893,10 @@ header p {
     /*line-height: 14px;*/
     font-size: 14px;
     background-color: #FFE788;
+
+    text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
 
     border: 1px solid #dba500;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
