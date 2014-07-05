@@ -958,11 +958,11 @@ header p {
   margin-left: 0%;
   padding: 10px 10%;
   gaming my commits*/
-.stretch {                   
-  width: 70%;
+/*.stretch {                   
+  width: 100%;
   display: inline-block;
   font-size: 0;
-  line-height: 0
+  line-height: 0*/
 }
 #banner .fork3 {
   vertical-align: top;
