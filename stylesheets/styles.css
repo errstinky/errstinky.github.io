@@ -817,7 +817,6 @@ header p {
   -khtml-border-radius: 0px 2px 2px 0px;
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
-  line-height: 14px;
 }
 #banner .button {
   border: 1px solid #dba500;
@@ -894,6 +893,7 @@ header p {
     /*line-height: 14px;*/
     font-size: 14px;
     background-color: #FFE788;
+    line-height: 14px;
 
     border: 1px solid #dba500;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
