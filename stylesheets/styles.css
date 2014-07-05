@@ -894,9 +894,6 @@ header p {
     font-size: 14px;
     background-color: #FFE788;
 
-    position: relative;
-    vertical-align: top;
-
     border: 1px solid #dba500;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
     background: -webkit-linear-gradient(#ffe788, #ffce38);
@@ -966,6 +963,7 @@ header p {
   display: inline-block;
   font-size: 0;
   line-height: 0
+  text-align: middle;
 }
 #banner .fork3 {
   vertical-align: top;
