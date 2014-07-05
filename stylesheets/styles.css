@@ -885,7 +885,7 @@ header p {
 .box1, .box2, .box3, .box4 {
     width: 118px;
     height: 36px;
-    vertical-align: middle;
+    vertical-align: top;
     display: inline-block;
     *display: inline;
     zoom: 1
