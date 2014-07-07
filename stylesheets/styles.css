@@ -76,33 +76,6 @@ boxedget {
   border-radius: 50px;
 }
 
-.boxedget {
-  box-sizing: border-box;
-  width: 25%;
-  display: block;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#ffe788, #ffce38);
-  background: -moz-linear-gradient(#ffe788, #ffce38);
-  background: -o-linear-gradient(#ffe788, #ffce38);
-  background: -ms-linear-gradient(#ffe788, #ffce38);
-  background: linear-gradient(#ffe788, #ffce38);
-  color: #fff;
-  font-size: 1.5em;
-  margin: 0.67em 0;
-  line-height: 100%;
-  float:center;
-  text-align: center;
-  padding: 10px;
-  border: 1px solid #ddd;
-  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
-  -moz-border-radius: 50px;
-  -webkit-border-radius: 50px;
-  -o-border-radius: 50px;
-  -ms-border-radius: 50px;
-  -khtml-border-radius: 50px;
-  border-radius: 50px;
-}
-
 boxed3 {
   box-sizing: border-box;
   width: 100%;
