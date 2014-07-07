@@ -51,7 +51,7 @@ boxed2 {
 
 boxedget {
   box-sizing: border-box;
-  width: 50%;
+  width: 33%;
   display: block;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#ffe788, #ffce38);
@@ -60,7 +60,7 @@ boxedget {
   background: -ms-linear-gradient(#ffe788, #ffce38);
   background: linear-gradient(#ffe788, #ffce38);
   color: #fff;
-  font-size: 0.5em;
+  font-size: 1em;
   margin: 0.67em 0;
   line-height: 100%;
   float:center;
