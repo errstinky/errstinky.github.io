@@ -63,6 +63,7 @@ boxedget {
   font-size: 1.5em;
   margin: 0.67em 0;
   line-height: 100%;
+  float:center;
   text-align: center;
   padding: 10px;
   border: 1px solid #ddd;
