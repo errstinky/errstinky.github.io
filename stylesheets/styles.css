@@ -900,11 +900,11 @@ header p {
 
     border: 1px solid #dba500;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#ffe788, #ffce38);
-    background: -moz-linear-gradient(#ffe788, #ffce38);
-    background: -o-linear-gradient(#ffe788, #ffce38);
-    background: -ms-linear-gradient(#ffe788, #ffce38);
-    background: linear-gradient(#ffe788, #ffce38);
+    background: -webkit-linear-gradient(#E195A1, #C47E88);
+    background: -moz-linear-gradient(#E195A1, #C47E88);
+    background: -o-linear-gradient(#E195A1, #C47E88);
+    background: -ms-linear-gradient(#E195A1, #C47E88);
+    background: linear-gradient(#E195A1, #C47E88);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
