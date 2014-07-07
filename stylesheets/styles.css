@@ -896,15 +896,15 @@ header p {
     padding: 10px 12px;
     margin-top: 6px;
     font-size: 14px;
-    background-color: #E195A1;
+    background-color: #fafaf8;
 
-    border: 1px solid #E195A1;
+    border: 1px solid #fafaf8;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#E195A1, #C47E88);
-    background: -moz-linear-gradient(#E195A1, #C47E88);
-    background: -o-linear-gradient(#E195A1, #C47E88);
-    background: -ms-linear-gradient(#E195A1, #C47E88);
-    background: linear-gradient(#E195A1, #C47E88);
+    background: -webkit-linear-gradient(#f9f6f1, #fafaf8);
+    background: -moz-linear-gradient(#f9f6f1, #fafaf8);
+    background: -o-linear-gradient(#f9f6f1, #fafaf8);
+    background: -ms-linear-gradient(#f9f6f1, #fafaf8);
+    background: linear-gradient(#f9f6f1, #fafaf8);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
