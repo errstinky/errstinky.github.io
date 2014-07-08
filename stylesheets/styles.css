@@ -54,11 +54,11 @@ boxedget {
   width: 40%;
   display: block;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#FF68AF, #FF8CC2);
-  background: -moz-linear-gradient(#FF68AF, #FF8CC2);
-  background: -o-linear-gradient(#FF68AF, #FF8CC2);
-  background: -ms-linear-gradient(#FF68AF, #FF8CC2);
-  background: linear-gradient(#FF68AF, #FF8CC2);
+  background: -webkit-linear-gradient(#f9f6f1, #fafaf8);
+  background: -moz-linear-gradient(#f9f6f1, #fafaf8);
+  background: -o-linear-gradient(#f9f6f1, #fafaf8);
+  background: -ms-linear-gradient(#f9f6f1, #fafaf8);
+  background: linear-gradient(#f9f6f1, #fafaf8);
   color: #000;
   font-size: .7em;
   margin: 0.67em 0;
@@ -78,11 +78,11 @@ boxedget {
 
 boxedget:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#e4abb4, #D78591);
-  background: -moz-linear-gradient(#e4abb4, #D78591);
-  background: -o-linear-gradient(#e4abb4, #D78591);
-  background: -ms-linear-gradient(#e4abb4, #D78591);
-  background: linear-gradient(#e4abb4, #D78591);
+  background: -webkit-linear-gradient(#FF68AF, #FF8CC2);
+  background: -moz-linear-gradient(#FF68AF, #FF8CC2);
+  background: -o-linear-gradient(#FF68AF, #FF8CC2);
+  background: -ms-linear-gradient(#FF68AF, #FF8CC2);
+  background: linear-gradient(#FF68AF, #FF8CC2);
   background-color: #ffeca0;
 }   
 
