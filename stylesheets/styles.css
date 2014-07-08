@@ -78,11 +78,11 @@ boxedget {
 
 boxedget:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#FF68AF, #FF8CC2);
-  background: -moz-linear-gradient(#FF68AF, #FF8CC2);
-  background: -o-linear-gradient(#FF68AF, #FF8CC2);
-  background: -ms-linear-gradient(#FF68AF, #FF8CC2);
-  background: linear-gradient(#FF68AF, #FF8CC2);
+  background: -webkit-linear-gradient(#FF8CC2, #FF68AF);
+  background: -moz-linear-gradient(#FF8CC2, #FF68AF);
+  background: -o-linear-gradient(#FF8CC2, #FF68AF);
+  background: -ms-linear-gradient(#FF8CC2, #FF68AF);
+  background: linear-gradient(#FF8CC2, #FF68AF);
   background-color: #ffeca0;
 }   
 
