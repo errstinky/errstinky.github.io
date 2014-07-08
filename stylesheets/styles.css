@@ -809,8 +809,8 @@ header p {
   margin-right: -382px;
   position: fixed;
   top: 115px;
-  background: #f0f0f0;
-  border: 1px solid #cbcbcb;
+  background: #D78591;
+  border: 1px solid #E195A1;
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -900,11 +900,11 @@ header p {
 
     border: 1px solid #eee;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#E195A1, #D78591);
-    background: -moz-linear-gradient(#E195A1, #D78591);
-    background: -o-linear-gradient(#E195A1, #D78591);
-    background: -ms-linear-gradient(#E195A1, #D78591);
-    background: linear-gradient(#E195A1, #D78591);
+    background: -webkit-linear-gradient(#fff, #d5d5d5);
+    background: -moz-linear-gradient(#fff, #d5d5d5);
+    background: -o-linear-gradient(#fff, #d5d5d5);
+    background: -ms-linear-gradient(#fff, #d5d5d5);
+    background: linear-gradient(#fff, #d5d5d5);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
