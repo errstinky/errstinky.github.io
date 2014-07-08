@@ -38,7 +38,8 @@ boxed2 {
   margin: 0.67em 0;
   line-height: 100%;
   text-align: center;
-  padding: 20px;
+  float: center;
+  padding: 5px;
   border: 1px solid #ddd;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
   -moz-border-radius: 2px;
