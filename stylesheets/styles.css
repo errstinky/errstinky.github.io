@@ -54,11 +54,11 @@ boxedget {
   width: 40%;
   display: block;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#D78591, #cf6b7a);
-  background: -moz-linear-gradient(#D78591, #cf6b7a);
-  background: -o-linear-gradient(#D78591, #cf6b7a);
-  background: -ms-linear-gradient(#D78591, #cf6b7a);
-  background: linear-gradient(#D78591, #cf6b7a);
+  background: -webkit-linear-gradient(#D78591, #e4abb4);
+  background: -moz-linear-gradient(#D78591, #e4abb4);
+  background: -o-linear-gradient(#D78591, #e4abb4);
+  background: -ms-linear-gradient(#D78591, #e4abb4);
+  background: linear-gradient(#D78591, #e4abb4);
   color: #fff;
   font-size: .7em;
   margin: 0.67em 0;
