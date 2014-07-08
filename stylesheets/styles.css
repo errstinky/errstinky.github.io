@@ -76,6 +76,16 @@ boxedget {
   border-radius: 2px;
 }
 
+boxedget.hover {
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
+  background: -webkit-linear-gradient(#e4abb4, #D78591);
+  background: -moz-linear-gradient(#e4abb4, #D78591);
+  background: -o-linear-gradient(#e4abb4, #D78591);
+  background: -ms-linear-gradient(#e4abb4, #D78591);
+  background: linear-gradient(#e4abb4, #D78591);
+  background-color: #ffeca0;
+}   
+
 boxed3 {
   box-sizing: border-box;
   width: 100%;
