@@ -25,7 +25,7 @@ boxed {
 
 boxed2 {
   box-sizing: border-box;
-  width: 50%;
+  width: 40%;
   display: block;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#26c8cd, #40ffff);
@@ -38,7 +38,7 @@ boxed2 {
   margin: 0.67em 0;
   line-height: 100%;
   text-align: center;
-  padding: 5px;
+  padding: 15px;
   border: 1px solid #ddd;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
   -moz-border-radius: 2px;
@@ -65,7 +65,7 @@ boxedget {
   line-height: 100%;
   float:center;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   border: 1px solid #D78591;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
   -moz-border-radius: 2px;
