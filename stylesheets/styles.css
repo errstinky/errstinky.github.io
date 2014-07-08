@@ -908,13 +908,13 @@ header p {
     font-size: 14px;
     /*background-color: #fafaf8;*/
 
-    border: 1px solid #eee;
+    border: 1px solid #6A8DB7;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#fff, #d5d5d5);
-    background: -moz-linear-gradient(#fff, #d5d5d5);
-    background: -o-linear-gradient(#fff, #d5d5d5);
-    background: -ms-linear-gradient(#fff, #d5d5d5);
-    background: linear-gradient(#fff, #d5d5d5);
+    background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
+    background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
+    background: -o-linear-gradient(#FAFAF8, #F9F6F1);
+    background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
+    background: linear-gradient(#FAFAF8, #F9F6F1);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
