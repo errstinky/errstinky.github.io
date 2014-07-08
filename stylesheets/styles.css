@@ -941,11 +941,11 @@ header p {
 }     
 .box1:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#E9EC47, #E4E74E);
-  background: -moz-linear-gradient(#E9EC47, #E4E74E);
-  background: -o-linear-gradient(#E9EC47, #E4E74E);
-  background: -ms-linear-gradient(#E9EC47, #E4E74E);
-  background: linear-gradient(#E9EC47, #E4E74E);
+  background: -webkit-linear-gradient(#F7F514, #E4E74E);
+  background: -moz-linear-gradient(#F7F514, #E4E74E);
+  background: -o-linear-gradient(#F7F514, #E4E74E);
+  background: -ms-linear-gradient(#F7F514, #E4E74E);
+  background: linear-gradient(#F7F514, #E4E74E);
   background-color: #ffeca0;
 
 }       
