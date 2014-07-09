@@ -301,6 +301,11 @@ h8 {
   margin: 2.33em 0;
 }
 
+h9 {
+  font-size: 0.4em;
+  margin: 3em 0;
+}
+
 /*
  * Addresses styling not present in IE7/8/9, S5, Chrome
  */
