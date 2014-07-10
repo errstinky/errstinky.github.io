@@ -23,6 +23,18 @@ boxed {
   border-radius: 2px;
 }
 
+boxed.grey {
+  background: #C0C0C0;
+}
+
+boxed.orange {
+  background: #FFA500;
+}
+
+boxed.blue {
+  background: #90AFDE;
+}
+
 boxed2 {
   box-sizing: border-box;
   width: 40%;
