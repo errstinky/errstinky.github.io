@@ -43,7 +43,7 @@ boxed.orange {
   -ms-border-radius: 10px;
   -khtml-border-radius: 10px;
   border-radius: 10px;
-  border: 1px solid #000;
+  border: 1px solid #808080;
 }
 
 boxed.blue {
@@ -55,7 +55,7 @@ boxed.blue {
   -ms-border-radius: 10px;
   -khtml-border-radius: 10px;
   border-radius: 10px;
-  border: 1px solid #000;
+  border: 1px solid #b3b3b3;
 }
 
 boxed2 {
