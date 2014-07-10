@@ -12,7 +12,7 @@ boxed {
   margin: 0.67em 0;
   line-height: 110%;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
   border: 1px solid #ddd;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
   -moz-border-radius: 2px;
@@ -117,26 +117,6 @@ boxedget:hover {
   background: linear-gradient(#FF8CC2, #FF68AF);
   background-color: #ffeca0;
 }   
-
-boxed3 {
-  box-sizing: border-box;
-  width: 100%;
-  display: block;
-  background: #fff;
-  font-size: 2.1em;
-  margin: 0.67em 0;
-  line-height: 110%;
-  text-align: left;
-  padding: 20px;
-  border: 1px solid #ddd;
-  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  -o-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -khtml-border-radius: 2px;
-  border-radius: 2px;
-}
 
 @font-face {
   font-family: 'Quattrocento Sans';
