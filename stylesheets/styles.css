@@ -5,7 +5,7 @@ by Matt Graham
 
 .unslide { position: relative; overflow: auto; }
     .unslide li { list-style: none; }
-        .unslide ul li { float: center; font-size: 2.1em; }
+        .unslide ul li { float: center; }
 
 boxed {
   box-sizing: border-box;
