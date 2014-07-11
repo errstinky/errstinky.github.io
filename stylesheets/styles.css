@@ -3,6 +3,10 @@ Leap Day for GitHub Pages
 by Matt Graham
 */
 
+.unslider { position: relative; overflow: auto; }
+    .unslider li { list-style: none; }
+        .unslider ul li { float: left; }
+
 boxed {
   box-sizing: border-box;
   width: 100%;
