@@ -29,13 +29,14 @@ boxed {
 
 slide {
   box-sizing: border-box;
-  width: 100%;
-  display: block;
-  background: #fff;
+
   font-size: 2.1em;
   /*margin: 0.67em 0;
   
-  text-align: center;*/
+  text-align: center;
+  width: 100%;
+  display: block;
+  background: #fff;
   line-height: 110%;
   padding: 20px;
   border: 1px solid #ddd;
@@ -45,7 +46,7 @@ slide {
   -o-border-radius: 2px;
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
-  border-radius: 2px;
+  border-radius: 2px;*/
 }
 
 boxed.grey {
