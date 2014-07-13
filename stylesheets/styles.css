@@ -31,13 +31,14 @@ slide {
   box-sizing: border-box;
 
   font-size: 2.1em;
+  line-height: 110%;
   /*margin: 0.67em 0;
   
   text-align: center;
   width: 100%;
   display: block;
   background: #fff;
-  line-height: 110%;
+  
   padding: 20px;
   border: 1px solid #ddd;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
