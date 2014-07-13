@@ -7,7 +7,7 @@ by Matt Graham
   .unslide ul { margin: 0; padding: 0; }
     .unslide li { list-style: none; }
         .unslide ul li { float: left; }
-  }
+  
 
 boxed {
   box-sizing: border-box;
