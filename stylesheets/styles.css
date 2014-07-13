@@ -4,8 +4,10 @@ by Matt Graham
 */
 
 .unslide { position: relative; overflow: auto; }
+  .unslide ul { margin: 0; padding: 0; }
     .unslide li { list-style: none; }
-        .unslide ul li { float: left; }
+        .unslide ul li { float: left; width: 100%;}
+  }
 
 boxed {
   box-sizing: border-box;
@@ -32,8 +34,9 @@ slide {
 
   font-size: 2.1em;
   line-height: 110%;
-  margin-left: 0.67em;
+
   /*
+  margin-left: 0.67em;
   text-align: center;
   width: 100%;
   display: block;
