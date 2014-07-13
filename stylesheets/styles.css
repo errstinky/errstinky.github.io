@@ -6,7 +6,7 @@ by Matt Graham
 .unslide { position: relative; overflow: auto; }
   .unslide ul { margin: 0; padding: 0; }
     .unslide li { list-style: none; }
-        .unslide ul li { float: left; width: 100%;}
+        .unslide ul li { float: left; }
   }
 
 boxed {
