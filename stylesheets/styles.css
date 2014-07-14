@@ -139,7 +139,7 @@ boxed2:hover {
 }
 
 boxed22:hover {
-  background: url(../images/share.png);
+  background: url(../images/share.png) #d78591;
   color: transparent;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#cf6b7a, #d78591);
