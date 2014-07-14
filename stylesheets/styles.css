@@ -81,7 +81,7 @@ boxed.blue {
   border-radius: 10px;
 }
 
-boxed2 {
+boxed2, boxed22, boxed23, boxed24 {
   box-sizing: border-box;
   width: 80%;
   display: block;
@@ -105,6 +105,22 @@ boxed2 {
   -ms-border-radius: 52px;
   -khtml-border-radius: 52px;
   border-radius: 52px;
+}
+
+boxed2:hover {
+  background: url(../images/search.png) #4276b6;
+}
+
+boxed22:hover {
+  background: url(../images/share.png) #4276b6;
+}
+
+boxed23:hover {
+  background: url(../images/save.png) #4276b6;
+}
+
+boxed24:hover {
+  background: url(../images/swap.png) #4276b6;
 }
 
 boxedget {
