@@ -34,14 +34,10 @@ slide {
   display: block;
   font-size: 2.1em;
   line-height: 110%;
-
-  
   /*margin-left: 0.67em;
   text-align: center;*/
   width: 100%;
-  
   background: #fff;
-  
   padding: 20px;
   border: 1px solid #ddd;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
@@ -87,7 +83,7 @@ boxed.blue {
 
 boxed2 {
   box-sizing: border-box;
-  width: 40%;
+  width: 80%;
   display: block;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#26c8cd, #40ffff);
@@ -103,12 +99,12 @@ boxed2 {
   padding: 15px;
   border: 1px solid #ddd;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  -o-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -khtml-border-radius: 2px;
-  border-radius: 2px;
+  -moz-border-radius: 52px;
+  -webkit-border-radius: 52px;
+  -o-border-radius: 52px;
+  -ms-border-radius: 52px;
+  -khtml-border-radius: 52px;
+  border-radius: 52px;
 }
 
 boxedget {
