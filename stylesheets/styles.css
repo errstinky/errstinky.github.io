@@ -86,11 +86,11 @@ boxed2, boxed23 {
   width: 80%;
   display: block;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#26c8cd, #40ffff);
-  background: -moz-linear-gradient(#26c8cd, #40ffff);
-  background: -o-linear-gradient(#26c8cd, #40ffff);
-  background: -ms-linear-gradient(#26c8cd, #40ffff);
-  background: linear-gradient(#26c8cd, #40ffff);
+  background: -webkit-linear-gradient(#4276b6, #39669d);
+  background: -moz-linear-gradient(#4276b6, #39669d);
+  background: -o-linear-gradient(#4276b6, #39669d);
+  background: -ms-linear-gradient(#4276b6, #39669d);
+  background: linear-gradient(#4276b6, #39669d);
   color: #fff;
   font-size: 0.86em;
   margin: 0.67em 0;
@@ -141,12 +141,6 @@ boxed2:hover {
 boxed22:hover {
   background: url(../images/share.png) #d78591;
   color: transparent;
-/*  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#cf6b7a, #d78591);
-  background: -moz-linear-gradient(#cf6b7a, #d78591);
-  background: -o-linear-gradient(#cf6b7a, #d78591);
-  background: -ms-linear-gradient(#cf6b7a, #d78591);
-  background: linear-gradient(#cf6b7a, #d78591);*/
 }
 
 boxed23:hover {
@@ -155,14 +149,8 @@ boxed23:hover {
 }
 
 boxed24:hover {
-  background: url(../images/swap.png);
+  background: url(../images/swap.png) #d78591;
   color: transparent;
-  /*background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#cf6b7a, #d78591);
-  background: -moz-linear-gradient(#cf6b7a, #d78591);
-  background: -o-linear-gradient(#cf6b7a, #d78591);
-  background: -ms-linear-gradient(#cf6b7a, #d78591);
-  background: linear-gradient(#cf6b7a, #d78591);*/
 }
 
 boxedget {
