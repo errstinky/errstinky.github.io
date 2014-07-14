@@ -81,7 +81,7 @@ boxed.blue {
   border-radius: 10px;
 }
 
-boxed2, boxed22, boxed23, boxed24 {
+boxed2, boxed23 {
   box-sizing: border-box;
   width: 80%;
   display: block;
@@ -107,14 +107,46 @@ boxed2, boxed22, boxed23, boxed24 {
   border-radius: 52px;
 }
 
+boxed22, boxed24 {
+  box-sizing: border-box;
+  width: 80%;
+  display: block;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+  background: -webkit-linear-gradient(#d78591, #cf6b7a);
+  background: -moz-linear-gradient(#d78591, #cf6b7a);
+  background: -o-linear-gradient(#d78591, #cf6b7a);
+  background: -ms-linear-gradient(#d78591, #cf6b7a);
+  background: linear-gradient(#d78591, #cf6b7a);
+  color: #fff;
+  font-size: 0.86em;
+  margin: 0.67em 0;
+  line-height: 100%;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
+  -moz-border-radius: 52px;
+  -webkit-border-radius: 52px;
+  -o-border-radius: 52px;
+  -ms-border-radius: 52px;
+  -khtml-border-radius: 52px;
+  border-radius: 52px;
+}
+
 boxed2:hover {
   background: url(../images/search.png) #4276b6;
   color: transparent;
 }
 
 boxed22:hover {
-  background: url(../images/share.png) #4276b6;
+  background: url(../images/share.png);
   color: transparent;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+  background: -webkit-linear-gradient(#cf6b7a, #d78591);
+  background: -moz-linear-gradient(#cf6b7a, #d78591);
+  background: -o-linear-gradient(#cf6b7a, #d78591);
+  background: -ms-linear-gradient(#cf6b7a, #d78591);
+  background: linear-gradient(#cf6b7a, #d78591);
 }
 
 boxed23:hover {
@@ -123,8 +155,14 @@ boxed23:hover {
 }
 
 boxed24:hover {
-  background: url(../images/swap.png) #4276b6;
+  background: url(../images/swap.png);
   color: transparent;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+  background: -webkit-linear-gradient(#cf6b7a, #d78591);
+  background: -moz-linear-gradient(#cf6b7a, #d78591);
+  background: -o-linear-gradient(#cf6b7a, #d78591);
+  background: -ms-linear-gradient(#cf6b7a, #d78591);
+  background: linear-gradient(#cf6b7a, #d78591);
 }
 
 boxedget {
