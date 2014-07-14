@@ -109,18 +109,22 @@ boxed2, boxed22, boxed23, boxed24 {
 
 boxed2:hover {
   background: url(../images/search.png) #4276b6;
+  color: transparent;
 }
 
 boxed22:hover {
   background: url(../images/share.png) #4276b6;
+  color: transparent;
 }
 
 boxed23:hover {
   background: url(../images/save.png) #4276b6;
+  color: transparent;
 }
 
 boxed24:hover {
   background: url(../images/swap.png) #4276b6;
+  color: transparent;
 }
 
 boxedget {
