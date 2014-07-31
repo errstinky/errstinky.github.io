@@ -380,6 +380,9 @@ h9 {
   font-size: 0.6em;
   margin: 2.5em 0;
 }
+h10 {
+  font-size: 2.4em;
+}
 
 /*
  * Addresses styling not present in IE7/8/9, S5, Chrome
