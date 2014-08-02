@@ -26,7 +26,7 @@
     </script>
 
   </head>
-  <body>
+  <body flow-prevent-drop>
 
       <header>
         <h1> <a class ="white" href="http://www.scribblysnap.com">Scribbly Snap</a> </h1>
@@ -62,6 +62,10 @@
             <input type="file" flow-btn/>
             Input OR Other element as upload button
             <span class="btn" flow-btn>Upload File</span>
+
+            <div class="alert" flow-drop>
+              Drag And Drop your file here
+            </div>
 
             <table>
               <tr ng-repeat="file in $flow.files">
