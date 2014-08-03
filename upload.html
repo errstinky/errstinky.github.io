@@ -26,7 +26,7 @@
     </script>
 
   </head>
-  <body flow-prevent-drop>
+  <body>
 
       <header>
         <h1> <a class ="white" href="http://www.scribblysnap.com">Scribbly Snap</a> </h1>
@@ -55,26 +55,25 @@
 
         <boxed><div align="left"><strong><i>UPLOAD</i></strong></div></boxed>
 
-          <div flow-init="{target: '/upload'}"
-               flow-files-submitted="$flow.upload()"
-               flow-file-success="$file.msg = $message">
 
-            <input type="file" flow-btn/>
-            Input OR Other element as upload button
-            <span class="btn" flow-btn>Upload File</span>
+          <input id="fileupload" type="file" name="files[]" data-url="server/php/" multiple>
+          <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+          <script src="js/vendor/jquery.ui.widget.js"></script>
+          <script src="js/jquery.iframe-transport.js"></script>
+          <script src="js/jquery.fileupload.js"></script>
+          <script>
+          $(function () {
+              $('#fileupload').fileupload({
+                  dataType: 'json',
+                  done: function (e, data) {
+                      $.each(data.result.files, function (index, file) {
+                          $('<p/>').text(file.name).appendTo(document.body);
+                      });
+                  }
+              });
+          });
+          </script>
 
-            <div class="alert" flow-drop>
-              Drag And Drop your file here
-            </div>
-
-            <table>
-              <tr ng-repeat="file in $flow.files">
-                  <td>{{$index+1}}</td>
-                  <td>{{file.name}}</td>
-                  <td>{{file.msg}}</td>
-              </tr>
-            </table>
-          </div>
 
 
 
