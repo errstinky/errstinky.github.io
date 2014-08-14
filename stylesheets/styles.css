@@ -20,16 +20,13 @@ boxed {
   text-align: center;
   padding: 10px;
   border: 1px solid #ddd;
-  -webkit-box-shadow: 0 15px 10px #777;
-  -moz-box-shadow: 0 15px 10px #777;
-  box-shadow: 0 15px 10px #777;
-  /*box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
-  border-radius: 2px;*/
+  border-radius: 2px;
 }
 
 boxed.grey {
