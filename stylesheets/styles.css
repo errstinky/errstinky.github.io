@@ -30,7 +30,12 @@ boxed {
 }
 
 boxed.grey {
-  background: #C0C0C0;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+  background: -webkit-linear-gradient(#ebebeb, #C0C0C0);
+  background: -moz-linear-gradient(#ebebeb, #C0C0C0);
+  background: -o-linear-gradient(#ebebeb, #C0C0C0);
+  background: -ms-linear-gradient(#ebebeb, #C0C0C0);
+  background: linear-gradient(#ebebeb, #C0C0C0);
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   -o-border-radius: 10px;
