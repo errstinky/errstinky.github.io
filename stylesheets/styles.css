@@ -58,11 +58,11 @@ boxed.orange {
 
 boxed.blue {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#8fbcff, #5b9afb);
-  background: -moz-linear-gradient(#8fbcff, #5b9afb);
-  background: -o-linear-gradient(#8fbcff, #5b9afb);
-  background: -ms-linear-gradient(#8fbcff, #5b9afb);
-  background: linear-gradient(#8fbcff, #5b9afb);
+  background: -webkit-linear-gradient(#b7d4ff, #5b9afb);
+  background: -moz-linear-gradient(#b7d4ff, #5b9afb);
+  background: -o-linear-gradient(#b7d4ff, #5b9afb);
+  background: -ms-linear-gradient(#b7d4ff, #5b9afb);
+  background: linear-gradient(#b7d4ff, #5b9afb);
   -moz-border-radius: 10px;
   color: #FFF;
   -moz-border-radius: 10px;
