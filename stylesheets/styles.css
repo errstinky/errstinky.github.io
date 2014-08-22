@@ -340,13 +340,6 @@ a.box {
   height: 36px;
 }
 
-a.box2 {
-  display:block;
-  width: 100px;
-  height: 36px;
-  color: #fff;
-}
-
 gree {
   color: #47a11b;
 }
@@ -1114,11 +1107,11 @@ header p {
 }   
 .box4:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
-  background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
-  background: -o-linear-gradient(#FAFAF8, #F9F6F1);
-  background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
-  background: linear-gradient(#FAFAF8, #F9F6F1);
+  background: -webkit-linear-gradient(#CE7373, #E4B6B6);
+  background: -moz-linear-gradient(#CE7373, #E4B6B6);
+  background: -o-linear-gradient(#CE7373, #E4B6B6);
+  background: -ms-linear-gradient(#CE7373, #E4B6B6);
+  background: linear-gradient(#CE7373, #E4B6B6);
   background-color: #ffeca0;
   color: #000;
 }                      
