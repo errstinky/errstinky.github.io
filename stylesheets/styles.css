@@ -1108,13 +1108,14 @@ header p {
   background-color: #ffeca0;
 }   
 .box4:hover {
-    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
-    background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
-    background: -o-linear-gradient(#FAFAF8, #F9F6F1);
-    background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
-    background: linear-gradient(#FAFAF8, #F9F6F1);
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+  background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
+  background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
+  background: -o-linear-gradient(#FAFAF8, #F9F6F1);
+  background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
+  background: linear-gradient(#FAFAF8, #F9F6F1);
   background-color: #ffeca0;
+  color: #000;
 }                      
 /*goes above left: 50%;
   position: fixed;
