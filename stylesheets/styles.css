@@ -1079,30 +1079,30 @@ header p {
 }    
 .box1:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#F7F514, #E4E74E);
-  background: -moz-linear-gradient(#F7F514, #E4E74E);
-  background: -o-linear-gradient(#F7F514, #E4E74E);
-  background: -ms-linear-gradient(#F7F514, #E4E74E);
-  background: linear-gradient(#F7F514, #E4E74E);
+  background: -webkit-linear-gradient(#faf866, #F7F514);
+  background: -moz-linear-gradient(#faf866, #F7F514);
+  background: -o-linear-gradient(#faf866, #F7F514);
+  background: -ms-linear-gradient(#faf866, #F7F514);
+  background: linear-gradient(#faf866, #F7F514);
   background-color: #ffeca0;
 
 }       
 .box2:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#59B922, #64BD2F);
-  background: -moz-linear-gradient(#59B922, #64BD2F);
-  background: -o-linear-gradient(#59B922, #64BD2F);
-  background: -ms-linear-gradient(#59B922, #64BD2F);
-  background: linear-gradient(#59B922, #64BD2F);
+  background: -webkit-linear-gradient(#85df51, #59B922);
+  background: -moz-linear-gradient(#85df51, #59B922);
+  background: -o-linear-gradient(#85df51, #59B922);
+  background: -ms-linear-gradient(#85df51, #59B922);
+  background: linear-gradient(#85df51, #59B922);
   background-color: #ffeca0;
 }   
 .box3:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#22B9CC, #58C4CE);
-  background: -moz-linear-gradient(#22B9CC, #58C4CE);
-  background: -o-linear-gradient(#22B9CC, #58C4CE);
-  background: -ms-linear-gradient(#22B9CC, #58C4CE);
-  background: linear-gradient(#22B9CC, #58C4CE);
+  background: -webkit-linear-gradient(#6dd9e7, #24c6db);
+  background: -moz-linear-gradient(#6dd9e7, #24c6db);
+  background: -o-linear-gradient(#6dd9e7, #24c6db);
+  background: -ms-linear-gradient(#6dd9e7, #24c6db);
+  background: linear-gradient(#6dd9e7, #24c6db);
   background-color: #ffeca0;
 }   
 .box4:hover {
