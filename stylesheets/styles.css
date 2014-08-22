@@ -1042,6 +1042,43 @@ header p {
     text-align: center;
     line-height: 36px;
 }     
+
+.box4 {
+    width: 100px;
+    height: 36px;
+    display: inline-block;
+    *display: inline;
+    zoom: 1
+    padding: 10px 12px;
+    margin-top: 6px;
+    font-size: 14px;
+    /*background-color: #fafaf8;*/
+
+    border: 1px solid #D78591;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+    background: -webkit-linear-gradient(#E4B6B6, #CE7373);
+    background: -moz-linear-gradient(#E4B6B6, #CE7373);
+    background: -o-linear-gradient(#E4B6B6, #CE7373);
+    background: -ms-linear-gradient(#E4B6B6, #CE7373);
+    background: linear-gradient(#E4B6B6, #CE7373);
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -o-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
+    background-color: #FFE788;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #333;                     
+    font-weight: bold;
+    text-align: center;
+    line-height: 36px;
+}    
 .box1:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
   background: -webkit-linear-gradient(#F7F514, #E4E74E);
@@ -1071,12 +1108,12 @@ header p {
   background-color: #ffeca0;
 }   
 .box4:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#EE7A13, #F29335);
-  background: -moz-linear-gradient(#EE7A13, #F29335);
-  background: -o-linear-gradient(#EE7A13, #F29335);
-  background: -ms-linear-gradient(#EE7A13, #F29335);
-  background: linear-gradient(#EE7A13, #F29335);
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+    background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
+    background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
+    background: -o-linear-gradient(#FAFAF8, #F9F6F1);
+    background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
+    background: linear-gradient(#FAFAF8, #F9F6F1);
   background-color: #ffeca0;
 }                      
 /*goes above left: 50%;
