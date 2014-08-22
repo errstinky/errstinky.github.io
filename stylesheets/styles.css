@@ -101,7 +101,7 @@ boxed2, boxed23 {
   -o-border-radius: 2px;
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
-  border-radius: 2px;
+  border-radius: 2px; /**/
 }
 
 boxed22, boxed24 {
