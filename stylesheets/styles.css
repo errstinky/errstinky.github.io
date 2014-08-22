@@ -340,6 +340,13 @@ a.box {
   height: 36px;
 }
 
+a.box2 {
+  display:block;
+  width: 100px;
+  height: 36px;
+  color: #fff;
+}
+
 gree {
   color: #47a11b;
 }
