@@ -895,7 +895,7 @@ header {
 header h1 {
   font: 40px/48px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 0px 2px 0px #235796;
+  text-shadow: 0px 2px 0px #42fb69;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
@@ -1054,11 +1054,11 @@ header p {
     font-size: 14px;
     border: 1px solid #D78591;
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#E4B6B6, #CE7373);
-    background: -moz-linear-gradient(#E4B6B6, #CE7373);
-    background: -o-linear-gradient(#E4B6B6, #CE7373);
-    background: -ms-linear-gradient(#E4B6B6, #CE7373);
-    background: linear-gradient(#E4B6B6, #CE7373);
+    background: -webkit-linear-gradient(#06f337, #42fb69);
+    background: -moz-linear-gradient(#06f337, #42fb69);
+    background: -o-linear-gradient(#06f337, #42fb69);
+    background: -ms-linear-gradient(#06f337, #42fb69);
+    background: linear-gradient(#06f337, #42fb69);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
