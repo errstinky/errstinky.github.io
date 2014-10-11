@@ -9,9 +9,9 @@ by Matt Graham ,
         .unslide ul li { float: left; }
 
 table{
-    border: 1px solid black;
+    border: 1px #333;
     table-layout: fixed;
-    width: 200px;
+    width: 220px;
 }
 
 th, td {
