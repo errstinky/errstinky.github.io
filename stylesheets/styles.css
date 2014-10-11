@@ -403,6 +403,12 @@ h11 {
   font-size: 1.4em;
   color: #666666;
 }
+h12{
+  font-size: 6em;
+}
+h13{
+  font-size: 4em;
+}
 
 /*
  * Addresses styling not present in IE7/8/9, S5, Chrome
