@@ -8,7 +8,7 @@ by Matt Graham ,
     .unslide li { list-style: none; }
         .unslide ul li { float: left; }
 
-table{
+/*table{
     border: 1px #333;
     table-layout: fixed;
     width: 220px;
@@ -19,7 +19,7 @@ th, td {
     overflow: hidden;
     width: 100px;
 }
-  
+  */
 
 boxed {
   box-sizing: border-box;
