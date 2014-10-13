@@ -423,15 +423,6 @@ h12{
   font-size: 5em;
   margin: 5em 0;
 }
-h12.1{
-  color: #fe3203 !important;
-}
-h12.2{
-  color: #43d8d8;
-}
-h12.3{
-  color: #81f40f;
-}
 
 /*
  * Addresses styling not present in IE7/8/9, S5, Chrome
