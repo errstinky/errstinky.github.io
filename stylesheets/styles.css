@@ -424,7 +424,7 @@ h12{
   margin: 5em 0;
 }
 h12.1{
-  color: #fe3203;
+  color: #fe3203 !important;
 }
 h12.2{
   color: #43d8d8;
