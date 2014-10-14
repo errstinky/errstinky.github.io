@@ -971,7 +971,7 @@ header p {
   background: -o-linear-gradient(#FAFAF8, #F9F6F1);
   background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
   background: linear-gradient(#FAFAF8, #F9F6F1);
-  border: 1px solid #E195A1;
+  /*border: 1px solid #E195A1;*/
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -1059,7 +1059,7 @@ header p {
     font-size: 14px;
     /*background-color: #fafaf8;*/
 
-    border: 1px solid #D78591;
+    /*border: 1px solid #D78591;*/
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
     background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
     background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
