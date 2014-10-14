@@ -25,7 +25,7 @@ th, td {
     text-align: right;
 }
 
-exbox {
+/*exbox {
   box-sizing: border-box;
   width: 32%;
   display: block;
@@ -44,7 +44,7 @@ exbox {
   -khtml-border-radius: 2px;
   border-radius: 2px;
   float: left;
-}
+}*/
 
 boxed {
   box-sizing: border-box;
