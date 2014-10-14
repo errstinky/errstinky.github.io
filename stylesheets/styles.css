@@ -25,6 +25,26 @@ th, td {
     text-align: right;
 }
 
+exbox {
+  box-sizing: border-box;
+  width: 33%;
+  display: block;
+  background: #fff;
+  font-size: 2.1em;
+  margin: 0.67em 0;
+  line-height: 110%;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -o-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -khtml-border-radius: 2px;
+  border-radius: 2px;
+}
+
 boxed {
   box-sizing: border-box;
   width: 100%;
