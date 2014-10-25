@@ -944,7 +944,7 @@ header h1 {
   text-overflow: ellipsis;
   -o-text-overflow: ellipsis;
   -ms-text-overflow: ellipsis;
-  letter-spacing: 10px;
+  letter-spacing: 8px;
 }
 
 header p {
