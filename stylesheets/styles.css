@@ -27,6 +27,11 @@ span#feed {
   color: #000;
 }
 
+hf {
+  font: 40px 'Bangers', cursive;
+  color: #fff;
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
