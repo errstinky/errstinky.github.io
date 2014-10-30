@@ -28,9 +28,9 @@ span#feed {
 }
 
 span#one {
-  font: 40px 'Bangers', cursive;
+  font: 60px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 5px 3px 1px rgba(150, 150, 150, 1);
+  text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
 }
 
 /*table{
