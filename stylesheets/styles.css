@@ -11,6 +11,10 @@ font-family: 'Press Start 2P', cursive;
     .unslide li { list-style: none; }
         .unslide ul li { float: left; }
 
+slid {
+  text-indent: 50px;
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
