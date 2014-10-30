@@ -15,6 +15,18 @@ slid {
   text-indent: 50px;
 }
 
+span#frank {
+  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #42fb69;
+  font-family: 'Bangers', cursive;
+  color: #e43afb;
+}
+
+span#feed {
+  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #42fb69;
+  font-family: 'Press Start 2P', cursive;
+  color: #000;
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
