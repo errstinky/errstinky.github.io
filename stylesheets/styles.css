@@ -15,10 +15,20 @@ slid {
   text-indent: 50px;
 }
 
-span#frank {
+span#ask {
+  text-shadow: 2px 2px 0px #42fb69, 4px 4px 0px #e0d9fa;
+  font: 80px 'Bangers', cursive;
+  color: #fff;
+}
+span#learn {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #42fb69;
   font: 80px 'Bangers', cursive;
   color: #e0d9fa;
+}
+span#grow {
+  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #fff;
+  font: 80px 'Bangers', cursive;
+  color: #42fb69;
 }
 
 span#feed {
