@@ -33,6 +33,12 @@ span#one {
   text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
 }
 
+span#two {
+  font: 20px 'Bangers', cursive;
+  color: #fff;
+  text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
