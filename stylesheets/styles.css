@@ -26,7 +26,7 @@ span#learn {
   color: #e0d9fa;
 }
 span#grow {
-  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #fff;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #e0d9fa;
   font: 80px 'Bangers', cursive;
   color: #42fb69;
 }
