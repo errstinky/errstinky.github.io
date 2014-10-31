@@ -16,7 +16,7 @@ slid {
 }
 
 span#ask {
-  text-shadow: 2px 2px 0px #42fb69, 4px 4px 0px #e0d9fa;
+  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #42fb69;
   font: 80px 'Bangers', cursive;
   color: #fff;
 }
