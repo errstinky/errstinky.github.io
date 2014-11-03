@@ -11,6 +11,12 @@ font-family: 'Press Start 2P', cursive;
     .unslide li { list-style: none; }
         .unslide ul li { float: left; }*/
 
+e1 {
+  text-decoration: none;
+  border-bottom: 6px #4ce7f9;
+  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
+}
+
 .ani {
  /* height: 150px;
   width: 600px;*/
