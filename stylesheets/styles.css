@@ -15,13 +15,21 @@ font-family: 'Press Start 2P', cursive;
   height: 150px;
   width: 200px;
   margin: 0 auto;
-  position: fixed;
+  padding: 0;
+  position: relative;
 }
 
 .anit h3 {
   font: 60px 'Bangers', cursive;
   color: #fff;
   text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
+  position: absolute;
+  margin: 70px 30px;
+  height: 80px;
+  top: 0px;
+  opacity: 0;
+  -moz-opacity: 0;
+  filter:alpha(opacity=0);
 }
 
 @-webkit-keyframes "quoteshift" {
