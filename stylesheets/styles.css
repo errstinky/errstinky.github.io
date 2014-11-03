@@ -12,23 +12,11 @@ font-family: 'Press Start 2P', cursive;
         .unslide ul li { float: left; }*/
 
 .ani {
-  box-sizing: border-box;
-  width: 100%;
-  display: block;
-  background: #e0d9fa;
-  font-size: 2.1em;
-  margin: 0.67em 0;
-  line-height: 110%;
-  text-align: center;
-  padding: 10px;
-  border: 1px solid #ddd;
-  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  -o-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -khtml-border-radius: 2px;
-  border-radius: 2px;
+  height: 150px;
+  width: 200px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
 }
 
 .anit h3 {
