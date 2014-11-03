@@ -19,11 +19,7 @@ font-family: 'Press Start 2P', cursive;
   position: relative;
 }
 
-.anit h3 {
-  font: 60px 'Bangers', cursive;
-  color: #fff;
-  text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
-
+.anit {
   position: absolute;
   margin: 70px 30px;
   height: 80px;
@@ -32,6 +28,12 @@ font-family: 'Press Start 2P', cursive;
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
+}
+
+.anit h3 {
+  font: 60px 'Bangers', cursive;
+  color: #fff;
+  text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
 }
 
 /*QUOTE ANIMATION*/
