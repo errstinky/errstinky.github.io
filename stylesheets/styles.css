@@ -46,20 +46,49 @@ font-family: 'Press Start 2P', cursive;
 }
  
 .anit:nth-child(2) {
+  -webkit-animation: quoteshift 30s 5s infinite linear;
+  -moz-animation: quoteshift 30s 5s infinite linear;
+  -ms-animation: quoteshift 30s 5s infinite linear;
+  -o-animation: quoteshift 30s 5s infinite linear;
+  animation: quoteshift 30s 5s infinite linear;
+}
+ 
+.anit:nth-child(3) {
   -webkit-animation: quoteshift 30s 10s infinite linear;
   -moz-animation: quoteshift 30s 10s infinite linear;
   -ms-animation: quoteshift 30s 10s infinite linear;
   -o-animation: quoteshift 30s 10s infinite linear;
   animation: quoteshift 30s 10s infinite linear;
 }
- 
-.anit:nth-child(3) {
+.anit:nth-child(4) {
+  -webkit-animation: quoteshift 30s 15s infinite linear;
+  -moz-animation: quoteshift 30s 15s infinite linear;
+  -ms-animation: quoteshift 30s 15s infinite linear;
+  -o-animation: quoteshift 30s 15s infinite linear;
+  animation: quoteshift 30s 15s infinite linear;
+}
+.anit:nth-child(5) {
   -webkit-animation: quoteshift 30s 20s infinite linear;
   -moz-animation: quoteshift 30s 20s infinite linear;
   -ms-animation: quoteshift 30s 20s infinite linear;
   -o-animation: quoteshift 30s 20s infinite linear;
   animation: quoteshift 30s 20s infinite linear;
 }
+.anit:nth-child(6) {
+  -webkit-animation: quoteshift 30s 25s infinite linear;
+  -moz-animation: quoteshift 30s 25s infinite linear;
+  -ms-animation: quoteshift 30s 25s infinite linear;
+  -o-animation: quoteshift 30s 25s infinite linear;
+  animation: quoteshift 30s 25s infinite linear;
+}
+.anit:nth-child(7) {
+  -webkit-animation: quoteshift 30s 30s infinite linear;
+  -moz-animation: quoteshift 30s 30s infinite linear;
+  -ms-animation: quoteshift 30s 30s infinite linear;
+  -o-animation: quoteshift 30s 30s infinite linear;
+  animation: quoteshift 30s 30s infinite linear;
+}
+
  
 /*KEYFRAMES*/
 @keyframes "quoteshift" {
