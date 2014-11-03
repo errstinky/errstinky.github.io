@@ -12,7 +12,7 @@ font-family: 'Press Start 2P', cursive;
         .unslide ul li { float: left; }*/
 
 e1 {
-  text-decoration: none;
+  text-decoration: underline;
   border-bottom: 6px #4ce7f9;
 }
 
