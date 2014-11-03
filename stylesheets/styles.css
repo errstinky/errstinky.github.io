@@ -30,7 +30,7 @@ font-family: 'Press Start 2P', cursive;
   filter:alpha(opacity=0);
 }
 
-.leftt{
+/* just change 1 think test.leftt{
   float: left;
 }
 
@@ -40,7 +40,7 @@ font-family: 'Press Start 2P', cursive;
 
 .rightt {
   float: right;
-}
+}*/
 
 .anit h3 {
   font: 60px 'Bangers', cursive;
