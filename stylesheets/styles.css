@@ -16,7 +16,7 @@ font-family: 'Press Start 2P', cursive;
   width: 600px;
   margin: 0 auto;
   padding: 0;
-  position: relative;
+  position: absolute;
 }
 
 .anit h3 {
