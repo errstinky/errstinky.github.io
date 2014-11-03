@@ -16,7 +16,7 @@ font-family: 'Press Start 2P', cursive;
   width: 600px;
   margin: 0 auto;
   padding: 0;
-  position: fixed;
+  position: relative;
 }
 
 .anit h3 {
@@ -25,7 +25,6 @@ font-family: 'Press Start 2P', cursive;
   text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
   margin: 0;
   z-index : 1;
-  position: relative;
 }
 
 @-webkit-keyframes "quoteshift" {
