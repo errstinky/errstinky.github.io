@@ -38,50 +38,35 @@ font-family: 'Press Start 2P', cursive;
 
 /*QUOTE ANIMATION*/
 .anit:nth-child(1) {
-  -webkit-animation: quoteshift 60s 0s infinite linear;
-  -moz-animation: quoteshift 60s 0s infinite linear;
-  -ms-animation: quoteshift 60s 0s infinite linear;
-  -o-animation: quoteshift 60s 0s infinite linear;
-  animation: quoteshift 60s 0s infinite linear;
+  -webkit-animation: quoteshift 30s 0s infinite linear;
+  -moz-animation: quoteshift 30s 0s infinite linear;
+  -ms-animation: quoteshift 30s 0s infinite linear;
+  -o-animation: quoteshift 30s 0s infinite linear;
+  animation: quoteshift 30s 0s infinite linear;
 }
  
 .anit:nth-child(2) {
-  -webkit-animation: quoteshift 60s 10s infinite linear;
-  -moz-animation: quoteshift 60s 10s infinite linear;
-  -ms-animation: quoteshift 60s 10s infinite linear;
-  -o-animation: quoteshift 60s 10s infinite linear;
-  animation: quoteshift 60s 10s infinite linear;
+  -webkit-animation: quoteshift 30s 10s infinite linear;
+  -moz-animation: quoteshift 30s 10s infinite linear;
+  -ms-animation: quoteshift 30s 10s infinite linear;
+  -o-animation: quoteshift 30s 10s infinite linear;
+  animation: quoteshift 30s 10s infinite linear;
 }
  
 .anit:nth-child(3) {
-  -webkit-animation: quoteshift 60s 20s infinite linear;
-  -moz-animation: quoteshift 60s 20s infinite linear;
-  -ms-animation: quoteshift 60s 20s infinite linear;
-  -o-animation: quoteshift 60s 20s infinite linear;
-  animation: quoteshift 60s 20s infinite linear;
+  -webkit-animation: quoteshift 30s 20s infinite linear;
+  -moz-animation: quoteshift 30s 20s infinite linear;
+  -ms-animation: quoteshift 30s 20s infinite linear;
+  -o-animation: quoteshift 30s 20s infinite linear;
+  animation: quoteshift 30s 20s infinite linear;
 }
-.anit:nth-child(4) {
-  -webkit-animation: quoteshift 60s 30s infinite linear;
-  -moz-animation: quoteshift 60s 30s infinite linear;
-  -ms-animation: quoteshift 60s 30s infinite linear;
-  -o-animation: quoteshift 60s 30s infinite linear;
-  animation: quoteshift 60s 30s infinite linear;
+.anit:nth-child(3) {
+  -webkit-animation: quoteshift 30s 20s infinite linear;
+  -moz-animation: quoteshift 30s 20s infinite linear;
+  -ms-animation: quoteshift 30s 20s infinite linear;
+  -o-animation: quoteshift 30s 20s infinite linear;
+  animation: quoteshift 30s 20s infinite linear;
 }
-.anit:nth-child(5) {
-  -webkit-animation: quoteshift 60s 40s infinite linear;
-  -moz-animation: quoteshift 60s 40s infinite linear;
-  -ms-animation: quoteshift 60s 40s infinite linear;
-  -o-animation: quoteshift 60s 40s infinite linear;
-  animation: quoteshift 60s 40s infinite linear;
-}
-.anit:nth-child(6) {
-  -webkit-animation: quoteshift 60s 50s infinite linear;
-  -moz-animation: quoteshift 60s 50s infinite linear;
-  -ms-animation: quoteshift 60s 50s infinite linear;
-  -o-animation: quoteshift 60s 50s infinite linear;
-  animation: quoteshift 60s 50s infinite linear;
-}
-
  
 /*KEYFRAMES*/
 @keyframes "quoteshift" {
