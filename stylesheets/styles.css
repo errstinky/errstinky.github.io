@@ -21,8 +21,7 @@ font-family: 'Press Start 2P', cursive;
 
 .anit {
   position: absolute;
-  margin: 70px 30px;
-  height: 320px;
+  display: block;
   top: 0px;
  
   opacity: 0;
