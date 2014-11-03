@@ -16,14 +16,14 @@ font-family: 'Press Start 2P', cursive;
   width: 200px;
   margin: 0 auto;
   padding: 0;
-  position: relative;
+  position: fixed;
 }
 
 .anit h3 {
   font: 60px 'Bangers', cursive;
   color: #fff;
   text-shadow: 5px 3px 1px rgba(150, 150, 150, .38);
-  position: absolute;
+  position: fixed;
   margin: 70px 30px;
   height: 80px;
   top: 0px;
