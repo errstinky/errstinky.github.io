@@ -30,6 +30,18 @@ font-family: 'Press Start 2P', cursive;
   filter:alpha(opacity=0);
 }
 
+.leftt{
+  float: left;
+}
+
+.wrapp {
+  overflow: hidden;
+}
+
+.rightt {
+  float: right;
+}
+
 .anit h3 {
   font: 60px 'Bangers', cursive;
   color: #fff;
