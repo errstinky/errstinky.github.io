@@ -17,9 +17,6 @@ e1 {
   display: inline-block;
   margin-right: 2%;
   margin-left: 2%;
-}
-
-e1.a {
   font: 20px 'Bangers', cursive;
   color: #fff;
   text-shadow: 3px 1px 2px rgba(150, 150, 150, 1);
@@ -37,11 +34,11 @@ e1.b {
   border-bottom-color: #dddf26;
 }
 e1.c {
-  border-bottom-color: #dddf26;
+  border-bottom-color: #e91033;
 }
 
 e1.d {
-  border-bottom-color: #e91033;
+  border-bottom-color: #c2d46c;
 }
 
 e1.e {
@@ -62,10 +59,6 @@ e1.h {
 
 e1.i {
   border-bottom-color: #000301;
-}
-
-e1.j {
-  border-bottom-color: #c2d46c;
 }
 
 .ani {
