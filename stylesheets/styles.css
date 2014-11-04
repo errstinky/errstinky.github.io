@@ -11,7 +11,10 @@ font-family: 'Press Start 2P', cursive;
     .unslide li { list-style: none; }
         .unslide ul li { float: left; }*/
 
-e1 {
+a {
+  font: 20px 'Bangers', cursive;
+  color: #fff;
+  text-shadow: 3px 1px 2px rgba(150, 150, 150, 1);
   border-bottom: 2px ridge;
   width: 29%;
   display: inline-block;
@@ -19,49 +22,43 @@ e1 {
   margin-left: 2%;
 }
 
-a.e1 {
-  font: 20px 'Bangers', cursive;
-  color: #fff;
-  text-shadow: 3px 1px 2px rgba(150, 150, 150, 1);
-}
-
-e1:hover {
+a:hover {
   -webkit-filter: hue-rotate(180deg);
 }
 
-e1.1 {
+a.1 {
   border-bottom-color: #4ce7f9;
 }
 
-e1.2 {
+a.2 {
   border-bottom-color: #dddf26;
 }
 
-e1.3 {
+a.3 {
   border-bottom-color: #e91033;
 }
 
-e1.4 {
+a.4 {
   border-bottom-color: #3885be;
 }
 
-e1.5 {
+a.5 {
   border-bottom-color: #a2646d;
 }
 
-e1.6 {
+a.6 {
   border-bottom-color: #6a7f97;
 }
 
-e1.7 {
+a.7 {
   border-bottom-color: #c24383;
 }
 
-e1.8 {
+a.8 {
   border-bottom-color: #000301;
 }
 
-e1.9 {
+a.9 {
   border-bottom-color: #c2d46c;
 }
 
@@ -1105,13 +1102,13 @@ h3 {
   font-size: 18px;
   line-height: 24px;
 }
-
+/*
 a {
-  /*color: #26c8cd;*/
+  color: #26c8cd;
   color: #527b9d;
   font-weight: bold;
   text-decoration: none;
-}
+}*/
 
 a small {
   font-size: 11px;
