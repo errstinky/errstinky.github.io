@@ -30,7 +30,7 @@ e1:hover {
 }
 
 e1.1 {
-  border-bottom-color: #4ce7f9
+  border-bottom: 2px ridge #4ce7f9;
 }
 
 e1.2 {
