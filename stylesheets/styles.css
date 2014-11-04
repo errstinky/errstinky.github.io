@@ -19,15 +19,8 @@ e1 {
   margin-left: 2%;
 }
 
-e2 {
-  border-bottom: 4px groove #4ce7f9;
-  width: 50%;
-  display: inline-block;
-}
-
-e3 {
-  border-bottom: 6px groove #4ce7f9;
-  width: 66%;
+e1:hover {
+  -webkit-filter: hue-rotate(180deg);
 }
 
 .ani {
