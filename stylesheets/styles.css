@@ -29,43 +29,42 @@ e1:hover {
   -webkit-filter: hue-rotate(180deg);
 }
 
-e1.1 {
-  border-bottom: 2px ridge #4ce7f9;
-  width: 10%;
+e1.a {
+  border-bottom-color: #4ce7f9
 }
 
-e1.2 {
+e1.b {
   border-bottom-color: #dddf26;
 }
-e1.2 {
+e1.c {
   border-bottom-color: #dddf26;
 }
 
-e1.3 {
+e1.d {
   border-bottom-color: #e91033;
 }
 
-e1.4 {
+e1.e {
   border-bottom-color: #3885be;
 }
 
-e1.5 {
+e1.f {
   border-bottom-color: #a2646d;
 }
 
-e1.6 {
+e1.g {
   border-bottom-color: #6a7f97;
 }
 
-e1.7 {
+e1.h {
   border-bottom-color: #c24383;
 }
 
-e1.8 {
+e1.i {
   border-bottom-color: #000301;
 }
 
-e1.9 {
+e1.j {
   border-bottom-color: #c2d46c;
 }
 
