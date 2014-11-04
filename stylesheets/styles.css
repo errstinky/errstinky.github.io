@@ -31,6 +31,7 @@ e1:hover {
 
 e1.1 {
   border-bottom: 2px ridge #4ce7f9;
+  width: 10%;
 }
 
 e1.2 {
