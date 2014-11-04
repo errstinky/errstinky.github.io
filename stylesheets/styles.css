@@ -30,35 +30,35 @@ e1:hover {
 }
 
 e1.2 {
-  border-bottom: #dddf26;
+  border-bottom-color: #dddf26;
 }
 
 e1.3 {
-  border-bottom: #e91033;
+  border-bottom-color: #e91033;
 }
 
 e1.4 {
-  border-bottom: #3885be;
+  border-bottom-color: #3885be;
 }
 
 e1.5 {
-  border-bottom: #a2646d;
+  border-bottom-color: #a2646d;
 }
 
 e1.6 {
-  border-bottom: #6a7f97;
+  border-bottom-color: #6a7f97;
 }
 
 e1.7 {
-  border-bottom: #c24383;
+  border-bottom-color: #c24383;
 }
 
 e1.8 {
-  border-bottom: #000301;
+  border-bottom-color: #000301;
 }
 
 e1.9 {
-  border-bottom: #c2d46c;
+  border-bottom-color: #c2d46c;
 }
 
 .ani {
