@@ -12,7 +12,7 @@ font-family: 'Press Start 2P', cursive;
         .unslide ul li { float: left; }*/
 
 e1 {
-  border-bottom: 2px ridge #4ce7f9;
+  border-bottom: 2px ridge;
   width: 29%;
   display: inline-block;
   margin-right: 2%;
@@ -27,6 +27,10 @@ e1.a {
 
 e1:hover {
   -webkit-filter: hue-rotate(180deg);
+}
+
+e1.1 {
+  border-bottom-color: #4ce7f9;
 }
 
 e1.2 {
