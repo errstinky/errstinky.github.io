@@ -15,6 +15,14 @@ e1 {
   border-bottom: 6px ridge #4ce7f9;
 }
 
+e2 {
+  border-bottom: 6px groove #4ce7f9;
+}
+
+e3 {
+  border-bottom: 6px outset #4ce7f9;
+}
+
 .ani {
  /* height: 150px;
   width: 600px;*/
