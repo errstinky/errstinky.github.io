@@ -13,8 +13,10 @@ font-family: 'Press Start 2P', cursive;
 
 e1 {
   border-bottom: 2px ridge #4ce7f9;
-  width: 33%;
+  width: 29%;
   display: block;
+  margin-right: 2%;
+  margin-left: 2%;
 }
 
 e2 {
