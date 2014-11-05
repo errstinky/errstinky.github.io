@@ -90,7 +90,6 @@ e1.i {
   display: block;
   top: 0px;
   text-align: center;
- 
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
@@ -713,7 +712,6 @@ h2 {
 h3 {
   font-size: 1.17em;
   margin: 1em 0;
-  text-align: center;
 }
 
 h4 {
