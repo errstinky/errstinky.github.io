@@ -47,22 +47,22 @@ e1.a {
 }
 
 e1.b {
-  border-bottom-color: #dddf26;
+  border-bottom-color: #fcef34;
 }
 e1.c {
   border-bottom-color: #e91033;
 }
 
 e1.d {
-  border-bottom-color: #c2d46c;
+  border-bottom-color: #fd6a06;
 }
 
 e1.e {
-  border-bottom-color: #3885be;
+  border-bottom-color: #1101b6;
 }
 
 e1.f {
-  border-bottom-color: #a2646d;
+  border-bottom-color: #6219b5;
 }
 
 e1.g {
@@ -70,20 +70,11 @@ e1.g {
 }
 
 e1.h {
-  border-bottom-color: #c24383;
+  border-bottom-color: #fa18ce;
 }
 
 e1.i {
-  border-bottom-color: #000301;
-  border: 1px solid #ddd;
-  box-sizing: border-box;
-  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.1) inset;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  -o-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -khtml-border-radius: 2px;
-  border-radius: 2px;
+  border-bottom-color: #3fdf81;
 }
 
 .ani {
