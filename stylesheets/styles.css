@@ -1212,7 +1212,6 @@ pre code {
 table {
   width: 100%;
   border-collapse: collapse;
-  border-bottom: 2px solid #e5e5e5;
 }
 
 th {
@@ -1225,10 +1224,7 @@ th {
 td {
   text-align: center;
   padding: 5px 10px;
-  border-bottom: 2px solid #e5e5e5;
-  border-right: 2px solid #42fb69;
-  border-top: 2px solid #42fb69;
-  border-left: 2px solid #42fb69;
+  border: 2px solid #e5e5e5;
 }
 
 /*
