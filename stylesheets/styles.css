@@ -1224,12 +1224,11 @@ th {
 td {
   text-align: center;
   padding: 5px 10px;
-  /*border-bottom: 2px solid #e5e5e5;*/
+  border-bottom: 2px solid #42fb69;
   border-right: 2px solid #42fb69;
   border-top: 2px solid #42fb69;
   border-left: 2px solid #42fb69;
 }
-
 /*
 td:first-child {
   border-left: 1px solid #42fb69;
