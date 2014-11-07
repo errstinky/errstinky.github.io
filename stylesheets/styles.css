@@ -1217,7 +1217,7 @@ table {
 th {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 2px solid #42fb69;
+  border-bottom: 1px solid #e5e5e5;
   color: #444;
 }
 
@@ -1230,10 +1230,11 @@ td {
   border-left: 2px solid #42fb69;
 }
 
-/*
+
 td:first-child {
   border-left: 1px solid #42fb69;
-}*/
+  border-bottom: 2px solid #e5e5e5;
+}
 
 hr {
   border: 0;
