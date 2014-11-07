@@ -336,7 +336,8 @@ span#tree {
 
 table{
 
-  border: #42fb69;
+  border-top-color: #42fb69;
+  border-width: 2px;
     /*border: 1px #333;
     table-layout: fixed;
     width: 220px;*/
