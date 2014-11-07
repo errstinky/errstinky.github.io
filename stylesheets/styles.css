@@ -1230,11 +1230,14 @@ td {
   border-left: 2px solid #42fb69;
 }
 
-
-td:first-child {
-  border-left: 1px solid #42fb69;
+tr {
   border-bottom: 2px solid #e5e5e5;
 }
+
+/*
+td:first-child {
+  border-left: 1px solid #42fb69;
+}*/
 
 hr {
   border: 0;
