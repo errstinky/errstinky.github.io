@@ -1224,13 +1224,12 @@ th {
 td {
   text-align: center;
   padding: 5px 10px;
-  border-color: #42fb69;
-  border-width: 2px;
-  /*border-bottom: 1px solid #e5e5e5;
-  border-right: 1px solid #42fb69;
+  border-bottom: #e5e5e5;
+  border-right: #42fb69;
   border-top-color: #42fb69;
-  border-bottom-color: #42fb69;*/
+  border-bottom-color: #42fb69;
 }
+
 /*
 td:first-child {
   border-left: 1px solid #42fb69;
