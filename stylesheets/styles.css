@@ -1226,11 +1226,16 @@ th {
 td {
   text-align: center;
   padding: 5px 10px;
-  border-bottom: 2px solid #e0d9fa;
+  border-bottom: 2px solid #666;
   border-right: 2px solid #42fb69;
-  border-top: 2px solid #888;
+  border-top: 2px solid #42fb69;
   border-left: 2px solid #42fb69;
 }
+
+table td + td + td + td + td + td + td + td + td + td + td + td + td + td + td {
+  border-bottom: 2px solid #42fb69;
+}
+
 /*
 td:first-child {
   border-left: 1px solid #42fb69;
