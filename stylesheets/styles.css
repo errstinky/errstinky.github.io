@@ -1223,7 +1223,7 @@ th {
   color: #444;
 }
 
-td {
+tr td {
   text-align: center;
   padding: 5px 10px;
   border-bottom: 1px solid #bbb;
