@@ -43,38 +43,38 @@ e1:hover {
 }
 
 e1.a {
-  border-bottom-color: #4ce7f9
+  border-bottom-color: #e6e6e6
 }
 
 e1.b {
-  border-bottom-color: #fcef34;
+  border-bottom-color: #ff0000;
 }
 e1.c {
-  border-bottom-color: #e91033;
+  border-bottom-color: #ff6600;
 }
 
 e1.d {
-  border-bottom-color: #6a7f97;
+  border-bottom-color: #ffff00;
 }
 
 e1.e {
-  border-bottom-color: #1101b6;
+  border-bottom-color: #66ff00;
 }
 
 e1.f {
-  border-bottom-color: #3fdf81;
+  border-bottom-color: #0066ff;
 }
 
 e1.g {
-  border-bottom-color: #fd6a06;
+  border-bottom-color: #000066;
 }
 
 e1.h {
-  border-bottom-color: #fa18ce;
+  border-bottom-color: #cc00cc;
 }
 
 e1.i {
-  border-bottom-color: #e3e1ec;
+  border-bottom-color: #111;
 }
 
 .ani {
