@@ -1214,7 +1214,7 @@ pre code {
 table {
   width: 100%;
   border-collapse: collapse;
-  border: 2px inset #42fb69;
+  border: 1px inset #42fb69;
 }
 
 th {
