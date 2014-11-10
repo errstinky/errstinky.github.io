@@ -1232,10 +1232,6 @@ td {
   border-left: 2px solid #42fb69;
 }
 
-td:last-child {
-  border-bottom: 2px solid #42fb69;
-}
-
 /*
 td:first-child {
   border-left: 1px solid #42fb69;
