@@ -93,6 +93,7 @@ e1.i {
   position: absolute;
   display: inline-block;
   top: 0px;
+  text-align: center;
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
