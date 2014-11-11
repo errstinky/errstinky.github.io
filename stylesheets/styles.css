@@ -408,15 +408,15 @@ boox {
   padding: 10px;
   border: 1px solid #ddd;
   box-sizing: border-box;
-  -webkit-box-shadow: 5px 5px 0px 0px rgba(138, 112, 236, 1);
-  -moz-box-shadow:    5px 5px 0px 0px rgba(224, 217, 250, 1);
-  box-shadow:         5px 5px 0px 0px rgba(224, 217, 250, 1);
-  -moz-border-radius: 6px;
-  -webkit-border-radius: 6px;
-  -o-border-radius: 6px;
-  -ms-border-radius: 6px;
-  -khtml-border-radius: 6px;
-  border-radius: 6px;
+  -webkit-box-shadow: 10px 10px 0px 0px rgba(138, 112, 236, 1);
+  -moz-box-shadow:    10px 10px 0px 0px rgba(224, 217, 250, 1);
+  box-shadow:         10px 10px 0px 0px rgba(224, 217, 250, 1);
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -o-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
 }
 
 boxed.grey {
