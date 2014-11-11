@@ -86,7 +86,7 @@ e1.i {
   width: 600px;*/
   margin: 0 auto;
   padding: 0;
-  /*position: relative;*/
+  position: relative;
 }
 
 .anit {
@@ -335,6 +335,7 @@ span#tree {
   font: 30px 'Bangers', cursive;
   color: #000;
   text-shadow: 2px 2px 0px #e0d9fa;
+  text-align: right;
 }
 
 /*table{
