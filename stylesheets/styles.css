@@ -87,6 +87,8 @@ e1.i {
   margin: 0 auto;
   padding: 0;
   position: relative;
+  width:100%;
+  text-align:center;
 }
 
 .ani2 {
