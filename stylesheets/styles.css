@@ -108,16 +108,6 @@ e1.i {
   filter:alpha(opacity=0);
 }
 
-.anit1 {
-  position: absolute;
-  display: inline-block;
-  text-align: center;
-  top: 0px;
-  opacity: 0;
-  -moz-opacity: 0;
-  filter:alpha(opacity=0);
-}
-
 /* just change 1 think test.leftt{
   float: left;
 }
