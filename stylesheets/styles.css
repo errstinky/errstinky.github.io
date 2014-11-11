@@ -87,6 +87,14 @@ e1.i {
   margin: 0 auto;
   padding: 0;
   position: relative;
+}
+
+.ani2 {
+ /* height: 150px;
+  width: 600px;*/
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
   text-align: center;
   text-indent: 3.5em;
 }
