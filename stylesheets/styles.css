@@ -90,7 +90,7 @@ e1.i {
 }
 
 .anit {
-  position: absolute;
+  position: relative;
   display: inline-block;
   top: 0px;
   opacity: 0;
