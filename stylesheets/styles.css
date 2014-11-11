@@ -86,11 +86,11 @@ e1.i {
   width: 600px;*/
   margin: 0 auto;
   padding: 0;
-  position: relative;
+  /*position: relative;*/
 }
 
 .anit {
-  position: relative;
+  position: absolute;
   display: inline-block;
   top: 0px;
   opacity: 0;
