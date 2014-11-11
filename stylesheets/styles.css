@@ -384,7 +384,7 @@ boxed {
   line-height: 110%;
   text-align: center;
   padding: 10px;
-  border: 1px solid #ddd;
+  /*border: 1px solid #ddd;*/
   box-sizing: border-box;
   -webkit-box-shadow: 10px 10px 0px 0px rgba(66, 251, 105, 0.75);
   -moz-box-shadow:    10px 10px 0px 0px rgba(66, 251, 105, 0.75);
@@ -406,7 +406,7 @@ boox {
   line-height: 110%;
   text-align: center;
   padding: 10px;
-  border: 1px solid #ddd;
+  /*border: 1px solid #ddd;*/
   box-sizing: border-box;
   -webkit-box-shadow: 10px 10px 0px 0px rgba(138, 112, 236, 1);
   -moz-box-shadow:    10px 10px 0px 0px rgba(138, 112, 236, 1);
