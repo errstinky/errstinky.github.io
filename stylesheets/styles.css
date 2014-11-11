@@ -400,7 +400,7 @@ boxed {
 boox {
   width: 100%;
   display: block;
-  background: #42fb69;
+  background: #b6fdc5;
   font-size: 1.9em;
   margin: 0.67em 0;
   line-height: 110%;
@@ -408,7 +408,7 @@ boox {
   padding: 10px;
   border: 1px solid #ddd;
   box-sizing: border-box;
-  -webkit-box-shadow: 5px 5px 0px 0px rgba(224, 217, 250, 0.75);
+  -webkit-box-shadow: 5px 5px 0px 0px rgba(138, 112, 236, 0.75);
   -moz-box-shadow:    5px 5px 0px 0px rgba(224, 217, 250, 0.75);
   box-shadow:         5px 5px 0px 0px rgba(224, 217, 250, 0.75);
   -moz-border-radius: 6px;
