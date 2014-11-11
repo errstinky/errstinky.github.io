@@ -105,6 +105,7 @@ e1.i {
   position: absolute;
   display: inline-block;
   top: 0px;
+  width:100%;
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
