@@ -11,6 +11,10 @@ font-family: 'Press Start 2P', cursive;
     .unslide li { list-style: none; }
         .unslide ul li { float: left; }*/
 
+.righh {
+  text-align: right;
+}
+
 .metro {
   position: relative;
   box-shadow: 
