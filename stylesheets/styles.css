@@ -96,6 +96,7 @@ e1.i {
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
+  float: right;
 }
 
 /* just change 1 think test.leftt{
@@ -335,7 +336,6 @@ span#tree {
   font: 30px 'Bangers', cursive;
   color: #000;
   text-shadow: 2px 2px 0px #e0d9fa;
-  text-align: right;
 }
 
 /*table{
