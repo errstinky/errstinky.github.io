@@ -408,9 +408,9 @@ boox {
   padding: 10px;
   border: 1px solid #ddd;
   box-sizing: border-box;
-  -webkit-box-shadow: 5px 5px 0px 0px rgba(138, 112, 236, 0.75);
-  -moz-box-shadow:    5px 5px 0px 0px rgba(224, 217, 250, 0.75);
-  box-shadow:         5px 5px 0px 0px rgba(224, 217, 250, 0.75);
+  -webkit-box-shadow: 5px 5px 0px 0px rgba(138, 112, 236, 1);
+  -moz-box-shadow:    5px 5px 0px 0px rgba(224, 217, 250, 1);
+  box-shadow:         5px 5px 0px 0px rgba(224, 217, 250, 1);
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   -o-border-radius: 6px;
