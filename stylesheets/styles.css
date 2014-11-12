@@ -408,9 +408,9 @@ boox {
   padding: 10px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -6px 6px 0px 0px rgba(138, 112, 236, 1), -8px 8px 0px 0px rgba(138, 112, 236, 1), -10px 10px 0px 0px rgba(138, 112, 236, 1);
-  -moz-box-shadow:    -6px 6px 0px 0px rgba(138, 112, 236, 1), -8px 8px 0px 0px rgba(138, 112, 236, 1), -10px 10px 0px 0px rgba(138, 112, 236, 1);
-  box-shadow:         -6px 6px 0px 0px rgba(138, 112, 236, 1), -8px 8px 0px 0px rgba(138, 112, 236, 1), -10px 10px 0px 0px rgba(138, 112, 236, 1);
+  -webkit-box-shadow: -6px 6px 0px 0px #8A70EC, -8px 8px 0px 0px #a38ef0, -10px 10px 0px 0px #bbacf4;
+  -moz-box-shadow:    -6px 6px 0px 0px #8A70EC, -8px 8px 0px 0px #a38ef0, -10px 10px 0px 0px #bbacf4;
+  box-shadow:         -6px 6px 0px 0px #8A70EC, -8px 8px 0px 0px #a38ef0, -10px 10px 0px 0px #bbacf4;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   -o-border-radius: 10px;
