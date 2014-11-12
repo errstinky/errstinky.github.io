@@ -1823,7 +1823,16 @@ footer {
     min-height: 0px;
   }
   header h1 {
-    font-size: 24px;
+    font-size: 30px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+  }
+
+    header h2 {
+    font-size: 12px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
