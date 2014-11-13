@@ -337,6 +337,13 @@ span#tree {
   text-shadow: 2px 2px 0px #e0d9fa;
 }
 
+span#asdf {
+  text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+  color: #9c8468;
+  opacity: 0.3;
+  font: 30px 'Bangers', cursive;
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
