@@ -441,9 +441,9 @@ boox {
   padding: 10px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -3px 3px 0px 0px #8a70ec, -6px 6px 0px 0px #967fee, -9px 9px 0px 0px #a38ef0, -12px 12px 0px 0px #af9df2, -15px 15px 0px 0px #bbacf4;
-  -moz-box-shadow:    -3px 3px 0px 0px #8a70ec, -6px 6px 0px 0px #967fee, -9px 9px 0px 0px #a38ef0, -12px 12px 0px 0px #af9df2, -15px 15px 0px 0px #bbacf4;
-  box-shadow:         -3px 3px 0px 0px #8a70ec, -6px 6px 0px 0px #967fee, -9px 9px 0px 0px #a38ef0, -12px 12px 0px 0px #af9df2, -15px 15px 0px 0px #bbacf4;
+  -webkit-box-shadow: -10px 10px 0px 0px #8A70EC;
+  -moz-box-shadow:    -10px 10px 0px 0px #8A70EC;
+  box-shadow:         -10px 10px 0px 0px #8A70EC;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   -o-border-radius: 10px;
