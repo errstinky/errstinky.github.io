@@ -314,7 +314,7 @@ span#grow {
 }
 
 span#feed {
-  text-shadow: 0px 1px 0px #95fdab, 0px 2px 0px #85fc9e, 0px 3px 0px #74fc91, 0px 4px 0px #63fc83, 0px 5px 0px #53fb76, 0px 6px 0px #42fb69, 0px 7px 0px #31fb5c, 0px 8px 0px #21fa4f, 0px 9px 0px #10fa41, 0px 10px 0px #05f437;
+  text-shadow: 1px 1px 0px #95fdab, 2px 2px 0px #85fc9e, 3px 3px 0px #74fc91, 4px 4px 0px #63fc83, 5px 5px 0px #53fb76, 6px 6px 0px #42fb69, 7px 7px 0px #31fb5c, 8px 8px 0px #21fa4f, 9px 9px 0px #10fa41, 10px 10px 0px #05f437;
   font: 14pt 'Press Start 2P', cursive;
   color: #f7f7f7;
 }
