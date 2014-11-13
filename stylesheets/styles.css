@@ -314,9 +314,9 @@ span#grow {
 }
 
 span#feed {
-  text-shadow: 1px 1px 0px #d8fee0, 2px 1px 0px #95fdab, 3px 2px 0px #53fb76, 4px 2px 0px #10fa41, 5px 3px 0px #04c22c, 6px 3px 0px #42fb69, 7px 4px 0px #31fb5c, 8px 4px 0px #21fa4f, 9px 5px 0px #10fa41, 10px 5px 0px #037f1d;
+  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #42fb69;
   font: 14pt 'Press Start 2P', cursive;
-  color: #f7f7f7;
+  color: #000;
 }
 
 span#one {
@@ -333,15 +333,8 @@ span#two {
 
 span#tree {
   font: 30px 'Bangers', cursive;
-  color: #42fb69;
+  color: #000;
   text-shadow: 2px 2px 0px #e0d9fa;
-}
-
-span#asdf {
-  text-shadow: -2px -2px 2px #fff, 2px 2px 2px #000;
-  color: #e5e5e5;
-  opacity: 0.3;
-  font: 30px 'Bangers', cursive;
 }
 
 /*table{
@@ -728,7 +721,7 @@ a:active {
 }
 
 a.white {
-  color: #000;
+  color: #fff;
   font-weight:normal;
 }
 
