@@ -314,9 +314,9 @@ span#grow {
 }
 
 span#feed {
-  text-shadow: 1px 1px 0px #10fa41, 2px 2px 0px #10fa41, 3px 3px 0px #10fa41, 4px 4px 0px #10fa41, 5px 5px 0px #10fa41, 6px 6px 6px #10fa41;
+  text-shadow: 1px 1px 0px #000, 2px 2px 0px #000, 3px 3px 0px #000, 4px 4px 0px #000, 5px 5px 0px #000, 6px 6px 6px #000;
   font: 14pt 'Press Start 2P', cursive;
-  color: #000;
+  color: #10fa41;
 }
 
 span#one {
