@@ -338,8 +338,8 @@ span#tree {
 }
 
 span#asdf {
-  text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
-  color: #fff;
+  text-shadow: -2px -2px 2px #fff, 2px 2px 2px #000;
+  color: #e5e5e5;
   opacity: 0.3;
   font: 30px 'Bangers', cursive;
 }
