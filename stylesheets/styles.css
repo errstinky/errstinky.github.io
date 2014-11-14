@@ -455,7 +455,7 @@ boox {
 booxg {
   width: 100%;
   display: block;
-  background: #ddd;
+  background: #eee;
   /*font-size: 1.9em; */
   margin: 0.67em 0;
   line-height: 110%;
@@ -463,9 +463,10 @@ booxg {
   padding: 10px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #c4c4c4;
-  -moz-box-shadow:    -10px 10px 0px 0px #c4c4c4;
-  box-shadow:         -10px 10px 0px 0px #c4c4c4;
+  -webkit-box-shadow: -10px 10px 0px 0px #e0d9fa;
+  -moz-box-shadow:    -10px 10px 0px 0px #e0d9fa;
+  box-shadow:         -10px 10px 0px 0px #e0d9fa;
+  outline: #e0d9fa dotted 1px;
   /*-moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
