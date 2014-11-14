@@ -3,13 +3,16 @@ Leap Day for GitHub Pages
 by Matt Graham
 
 font-family: 'Press Start 2P', cursive;
-
 */
 
-/*.unslide { position: relative; overflow: auto; }
-  .unslide ul { margin: 0; padding: 0; }
-    .unslide li { list-style: none; }
-        .unslide ul li { float: left; }*/
+/* USE THIS CODE FOR SOMETHING, MAYBE TESTIMONIALS OR SOMETHING, it's a dotted line box.
+  -webkit-box-shadow: 2px 2px 2px #000;
+  -moz-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+  outline: 2px dashed #8A70EC;
+  outline-offset: -5px;
+  background-color: #e6e6e6;*/
+
 
 .righh {
   text-align: right;
@@ -81,12 +84,6 @@ e1.i {
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
-  -webkit-box-shadow: 2px 2px 2px #000;
-  -moz-box-shadow: 2px 2px 2px #000;
-  box-shadow: 2px 2px 2px #000;
-  outline: 2px dashed #8A70EC;
-  outline-offset: -5px;
-  background-color: #e6e6e6;
 }
 
 /* just change 1 think test.leftt{
