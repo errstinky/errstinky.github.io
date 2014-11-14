@@ -763,9 +763,9 @@ a.box {
   width: 100px;
   height: 36px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px rgba(66, 251, 105, 0.75);
-  -moz-box-shadow:    4px 4px 0px 0px rgba(66, 251, 105, 0.75);
-  box-shadow:         4px 4px 0px 0px rgba(66, 251, 105, 0.75);
+  -webkit-box-shadow: 5px 5px 0px 0px rgba(66, 251, 105, 0.75);
+  -moz-box-shadow:    5px 5px 0px 0px rgba(66, 251, 105, 0.75);
+  box-shadow:         5px 5px 0px 0px rgba(66, 251, 105, 0.75);
   outline: #42fb69 dotted 1px;
 }
 
