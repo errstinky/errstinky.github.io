@@ -428,6 +428,7 @@ boxed {
   -ms-border-radius: 10px;
   -khtml-border-radius: 10px;
   border-radius: 10px;
+  outline: #42fb69 dotted 1px;
 }
 
 boox {
