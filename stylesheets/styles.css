@@ -73,17 +73,6 @@ e1.i {
   width:100%;
 }
 
-.stitch {
-    /*stitching*/
-
-
-    width: 100%;
-    display: block;
-     
-    /*shadow*/
-
-}
-
 .anit {
   position: absolute;
   display: inline-block;
@@ -97,7 +86,7 @@ e1.i {
   box-shadow: 2px 2px 2px #000;
   outline: 2px dashed #8A70EC;
   outline-offset: -5px;
-  background-color: #fff;
+  background-color: #e6e6e6;
 }
 
 /* just change 1 think test.leftt{
