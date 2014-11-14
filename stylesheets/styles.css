@@ -1582,11 +1582,11 @@ header p {
 }   
 .box3:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#b6ecf3, #24c6db);
-  background: -moz-linear-gradient(#b6ecf3, #24c6db);
-  background: -o-linear-gradient(#b6ecf3, #24c6db);
-  background: -ms-linear-gradient(#b6ecf3, #24c6db);
-  background: linear-gradient(#b6ecf3, #24c6db);
+  background: -webkit-linear-gradient(#b6ecf3, #41cee0);
+  background: -moz-linear-gradient(#b6ecf3, #41cee0);
+  background: -o-linear-gradient(#b6ecf3, #41cee0);
+  background: -ms-linear-gradient(#b6ecf3, #41cee0);
+  background: linear-gradient(#b6ecf3, #41cee0);
 }   
 .box4:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
