@@ -452,6 +452,28 @@ boox {
   border-radius: 1px;
 }
 
+booxg {
+  width: 100%;
+  display: block;
+  background: #aaa;
+  /*font-size: 1.9em; */
+  margin: 0.67em 0;
+  line-height: 110%;
+  text-align: center;
+  padding: 10px;
+  /*border: 1px solid #ddd;*/
+  box-sizing: border-box;
+  -webkit-box-shadow: -10px 10px 0px 0px #fff;
+  -moz-box-shadow:    -10px 10px 0px 0px #fff;
+  box-shadow:         -10px 10px 0px 0px #fff;
+  /*-moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  -o-border-radius: 1px;
+  -ms-border-radius: 1px;
+  -khtml-border-radius: 1px;
+  border-radius: 1px;*/
+}
+
 boxed.grey {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#ebebeb, #C0C0C0);
