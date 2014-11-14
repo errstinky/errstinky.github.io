@@ -761,7 +761,7 @@ a.white {
 a.box {
   display:block;
   width: 100px;
-  height: 36px;
+  height: 34px;
   text-decoration: none;
   -webkit-box-shadow: 5px 5px 0px 0px rgba(66, 251, 105, 0.75);
   -moz-box-shadow:    5px 5px 0px 0px rgba(66, 251, 105, 0.75);
