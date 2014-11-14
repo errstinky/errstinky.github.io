@@ -352,6 +352,12 @@ span#feed {
   color: #000;
 }
 
+span#feed2 {
+  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #42fb69;
+  font: 14pt 'Press Start 2P', cursive;
+  color: #000;
+}
+
 span#one {
   font: 60px 'Bangers', cursive;
   color: #fff;
