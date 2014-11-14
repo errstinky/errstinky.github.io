@@ -370,6 +370,12 @@ span#tree {
   text-shadow: 2px 2px 0px #e0d9fa;
 }
 
+span#purp {
+  font: 30px 'Bangers', cursive;
+  color: #8A70EC;
+  text-shadow: 2px 2px 0px #e0d9fa;
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
