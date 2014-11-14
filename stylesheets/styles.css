@@ -73,6 +73,17 @@ e1.i {
   width:100%;
 }
 
+.stitch {
+    /*stitching*/
+
+
+    width: 100%;
+    display: block;
+     
+    /*shadow*/
+
+}
+
 .anit {
   position: absolute;
   display: inline-block;
@@ -81,6 +92,12 @@ e1.i {
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
+  -webkit-box-shadow: 2px 2px 2px #000;
+  -moz-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+  outline: 2px dashed #8A70EC;
+  outline-offset: -5px;
+  background-color: #fff;
 }
 
 /* just change 1 think test.leftt{
@@ -421,21 +438,7 @@ boxed {
   border-radius: 1px;
 }
 
-.stitch {
-    /*stitching*/
-    outline: 2px dashed #8A70EC;
-    outline-offset: -5px;
-     
-    background-color: #fff;
 
-    width: 100%;
-    display: block;
-     
-    /*shadow*/
-    -webkit-box-shadow: 2px 2px 2px #000;
-    -moz-box-shadow: 2px 2px 2px #000;
-    box-shadow: 2px 2px 2px #000;
-}
 
 boox {
   width: 100%;
