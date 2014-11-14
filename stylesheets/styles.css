@@ -1570,17 +1570,15 @@ header p {
   background: -o-linear-gradient(#fdfcb8, #F7F514);
   background: -ms-linear-gradient(#fdfcb8, #F7F514);
   background: linear-gradient(#fdfcb8, #F7F514);
-  background-color: #ffeca0;
 
 }       
 .box2:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#b7ec99, #59B922);
-  background: -moz-linear-gradient(#b7ec99, #59B922);
-  background: -o-linear-gradient(#b7ec99, #59B922);
-  background: -ms-linear-gradient(#b7ec99, #59B922);
-  background: linear-gradient(#b7ec99, #59B922);
-  background-color: #ffeca0;
+  background: -webkit-linear-gradient(#b6fdc5, #42fb69);
+  background: -moz-linear-gradient(#b6fdc5, #42fb69);
+  background: -o-linear-gradient(#b6fdc5, #42fb69);
+  background: -ms-linear-gradient(#b6fdc5, #42fb69);
+  background: linear-gradient(#b6fdc5, #42fb69);
 }   
 .box3:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
@@ -1589,7 +1587,6 @@ header p {
   background: -o-linear-gradient(#b6ecf3, #24c6db);
   background: -ms-linear-gradient(#b6ecf3, #24c6db);
   background: linear-gradient(#b6ecf3, #24c6db);
-  background-color: #ffeca0;
 }   
 .box4:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
@@ -1598,7 +1595,6 @@ header p {
   background: -o-linear-gradient(#CE7373, #E4B6B6);
   background: -ms-linear-gradient(#CE7373, #E4B6B6);
   background: linear-gradient(#CE7373, #E4B6B6);
-  background-color: #ffeca0;
   color: #000;
 }                      
 /*goes above left: 50%;
