@@ -761,7 +761,7 @@ a.white {
 a.box {
   display:block;
   width: 100px;
-  height: 16px;
+  height: 35px;
   text-decoration: none;
   -webkit-box-shadow: 4px 4px 0px 0px rgba(66, 251, 105, 0.75);
   -moz-box-shadow:    4px 4px 0px 0px rgba(66, 251, 105, 0.75);
@@ -1359,7 +1359,7 @@ header p {
   z-index: 100;
   left: 0;
   right: 50%;
-  height: 25px;
+  height: 50px;
   margin-right: -382px;
   position: fixed;
   top: 115px;
