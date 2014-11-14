@@ -423,11 +423,11 @@ boxed {
 
 stitch {
     /*stitching*/
-    outline: 1px dashed #8A70EC;
+    outline: 2px dashed #8A70EC;
     outline-offset: -5px;
      
     background-color: #fff;
-    
+
     width: 100%;
     display: block;
      
