@@ -421,7 +421,7 @@ boxed {
   border-radius: 1px;
 }
 
-stitch {
+.stitch {
     /*stitching*/
     outline: 2px dashed #8A70EC;
     outline-offset: -5px;
