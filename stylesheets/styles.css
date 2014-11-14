@@ -1320,9 +1320,9 @@ header {
   width: 100%;
   text-align: center;
   background-color: #e0d9fa;
-  -webkit-box-shadow: 10px 10px 0px 0px rgba(66, 251, 105, 0.75);
-  -moz-box-shadow:    10px 10px 0px 0px rgba(66, 251, 105, 0.75);
-  box-shadow:         10px 10px 0px 0px rgba(66, 251, 105, 0.75);
+  -webkit-box-shadow: 10px 10px 0px 0px rgba(66, 251, 105, 0.75), 1px 0px 2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow:    10px 10px 0px 0px rgba(66, 251, 105, 0.75), 1px 0px 2px rgba(0, 0, 0, 0.75);
+  box-shadow:         10px 10px 0px 0px rgba(66, 251, 105, 0.75), 1px 0px 2px rgba(0, 0, 0, 0.75);
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
