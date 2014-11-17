@@ -492,7 +492,7 @@ booxg {
 
 booxa {
   width: 100%;
-  display: block;
+  display: inline-block;
   background: #fff;
   /*font-size: 1.9em; */
   margin: 0.67em 0;
