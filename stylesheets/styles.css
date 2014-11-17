@@ -496,23 +496,6 @@ booxg {
   outline: #b6fdc5 dotted 2px;
 }
 
-booxa {
-  width: 100%;
-  display: block;
-  background: #e6e6e6;
-  /*font-size: 1.9em; */
-  margin: 0.67em 0;
-  line-height: 110%;
-  text-align: center;
-  padding: 10px;
-  /*border: 1px solid #ddd;*/
-  box-sizing: border-box;
-  border-right: 10px dotted #b6fdc5;
-  border-top: 10px solid #b6fdc5;
-  border-left: 10px dashed #e0d9fa;
-  border-bottom: 10px solid #e0d9fa;
-}
-
 boxed.grey {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#ebebeb, #C0C0C0);
