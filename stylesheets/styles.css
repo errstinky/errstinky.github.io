@@ -368,9 +368,9 @@ span#two {
 }
 
 span#three {
-  font: 59px 'Bangers', cursive;
+  font: 58px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 3px 1px 2px rgba(150, 150, 150, 1);
+  text-shadow: 2px 2px 0px #8A70EC, -2px -2px 0px #42fb69;
 }
 
 span#tree {
