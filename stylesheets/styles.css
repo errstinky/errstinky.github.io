@@ -1915,6 +1915,10 @@ footer {
     -ms-text-overflow: ellipsis;
   }
 
+  .ani {
+    padding-bottom: 16em;
+  }
+
   section {
     margin-top: 5px;
   }
