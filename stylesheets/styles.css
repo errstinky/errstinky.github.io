@@ -507,9 +507,9 @@ booxa {
   padding: 10px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  border-right: 10px solid #b6fdc5;
+  border-right: 10px dotted #b6fdc5;
   border-top: 10px solid #b6fdc5;
-  border-left: 10px solid #e0d9fa;
+  border-left: 10px dashed #e0d9fa;
   border-bottom: 10px solid #e0d9fa;
 }
 
