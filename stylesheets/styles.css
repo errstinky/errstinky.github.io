@@ -84,7 +84,7 @@ e1.i {
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
-  margin-bottom: 100px;
+  padding-bottom: 50em;
 }
 
 /* just change 1 think test.leftt{
