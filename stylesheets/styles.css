@@ -499,6 +499,7 @@ booxa {
   line-height: 110%;
   text-align: center;
   padding: 10px;
+  padding-bottom: 20px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
   -webkit-box-shadow: 10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa;
