@@ -77,6 +77,14 @@ e1.i {
   padding-bottom: 8em;
 }
 
+.ani2 {
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  width:100%;
+  padding-bottom: 0em;
+}
+
 .anit {
   position: absolute;
   display: block;
