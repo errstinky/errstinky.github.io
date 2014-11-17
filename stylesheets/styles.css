@@ -492,19 +492,18 @@ booxg {
 
 booxa {
   width: 100%;
-  display: inline-block;
-  background: #fff;
+  display: block;
+  background: #e6e6e6;
   /*font-size: 1.9em; */
   margin: 0.67em 0;
   line-height: 110%;
   text-align: center;
   padding: 10px;
-  padding-bottom: 20px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 20px 20px 0px 0px #b6fdc5, -20px -20px 0px 0px #e0d9fa;
-  -moz-box-shadow:    20px 20px 0px 0px #b6fdc5, -20px -20px 0px 0px #e0d9fa;
-  box-shadow:         20px 20px 0px 0px #b6fdc5, -20px -20px 0px 0px #e0d9fa;
+  -webkit-box-shadow: 10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa;
+  -moz-box-shadow:    10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa;
+  box-shadow:         10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa;
 }
 
 boxed.grey {
