@@ -78,7 +78,7 @@ e1.i {
 
 .anit {
   position: absolute;
-  display: block;
+  display: inline-block;
   top: 0px;
   width:100%;
   opacity: 0;
