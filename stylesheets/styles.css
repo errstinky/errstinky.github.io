@@ -510,6 +510,7 @@ booxa {
   -webkit-box-shadow: 10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa;
   -moz-box-shadow:    10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa;
   box-shadow:         10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa;
+  outline: #e0d9fa solid 10px;
 }
 
 boxed.grey {
