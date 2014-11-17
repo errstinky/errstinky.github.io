@@ -74,6 +74,8 @@ e1.i {
   padding: 0;
   position: relative;
   width:100%;
+  padding-bottom: 500px;
+  margin-bottom: 500px;
 }
 
 .anit {
@@ -84,8 +86,6 @@ e1.i {
   opacity: 0;
   -moz-opacity: 0;
   filter:alpha(opacity=0);
-  padding-bottom: 500px;
-  margin-bottom: 500px;
 }
 
 /* just change 1 think test.leftt{
