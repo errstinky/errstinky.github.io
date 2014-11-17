@@ -71,9 +71,10 @@ e1.i {
 
 .ani {
   margin: 0 auto;
-  padding: 10%;
+  padding: 0;
   position: relative;
   width:100%;
+  padding-bottom: 15%;
 }
 
 .anit {
