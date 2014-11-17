@@ -507,9 +507,9 @@ booxa {
   padding: 10px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #e0d9fa;
-  -moz-box-shadow:    10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #e0d9fa;
-  box-shadow:         10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #e0d9fa;
+  -webkit-box-shadow: 10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #b6fdc5;
+  -moz-box-shadow:    10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #b6fdc5;
+  box-shadow:         10px 10px 0px 0px #b6fdc5, -10px -10px 0px 0px #e0d9fa, 0px -10px 0px 0px #e0d9fa , 0px -10px 0px 0px #b6fdc5;
 }
 
 boxed.grey {
