@@ -471,12 +471,6 @@ booxp {
   -moz-box-shadow:    -10px 10px 0px 0px #e0d9fa;
   box-shadow:         -10px 10px 0px 0px #e0d9fa;
   outline: #e0d9fa dotted 2px;
-  /*-moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  -o-border-radius: 1px;
-  -ms-border-radius: 1px;
-  -khtml-border-radius: 1px;
-  border-radius: 1px;*/
 }
 
 booxg {
@@ -494,12 +488,22 @@ booxg {
   -moz-box-shadow:    10px 10px 0px 0px #b6fdc5;
   box-shadow:         10px 10px 0px 0px #b6fdc5;
   outline: #b6fdc5 dotted 2px;
-  /*-moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  -o-border-radius: 1px;
-  -ms-border-radius: 1px;
-  -khtml-border-radius: 1px;
-  border-radius: 1px;*/
+}
+
+booxa {
+  width: 100%;
+  display: block;
+  background: #e6e6e6;
+  /*font-size: 1.9em; */
+  margin: 0.67em 0;
+  line-height: 110%;
+  text-align: center;
+  padding: 10px;
+  /*border: 1px solid #ddd;*/
+  box-sizing: border-box;
+  -webkit-box-shadow: 10px 10px 0px 0px #b6fdc5, -10px 10px 0px 0px #e0d9fa;
+  -moz-box-shadow:    10px 10px 0px 0px #b6fdc5, -10px 10px 0px 0px #e0d9fa;
+  box-shadow:         10px 10px 0px 0px #b6fdc5, -10px 10px 0px 0px #e0d9fa;
 }
 
 boxed.grey {
