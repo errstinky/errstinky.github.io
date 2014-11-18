@@ -1353,6 +1353,14 @@ hr {
   margin: 60px 0px 60px;
 }
 
+hr2 {
+  border: 0;
+  outline: none;
+  height: 11px;
+  background: transparent url("../images/hr2.gif") center center repeat-x;
+  margin: 20px 0px 20px;
+}
+
 dt {
   color: #444;
   font-weight: 700;
