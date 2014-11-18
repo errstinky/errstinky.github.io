@@ -1353,13 +1353,6 @@ hr {
   margin: 60px 0px 60px;
 }
 
-hr.style-one {
-  margin: 5px 0px 5px;
-  border: 0;
-  border-bottom: 1px dashed #ccc;
-  background: #999;
-}
-
 dt {
   color: #444;
   font-weight: 700;
