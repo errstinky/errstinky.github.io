@@ -364,7 +364,7 @@ span#one {
 span#two {
   font: 30px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 3px 1px 1px #747474;
+  text-shadow: 3px 1px 2px #747474;
 }
 
 span#three {
@@ -376,7 +376,13 @@ span#three {
 span#tree {
   font: 30px 'Bangers', cursive;
   color: #000;
-  text-shadow: 2px 2px 0px #e0d9fa;
+  text-shadow: 3px 1px 0px #e0d9fa;
+}
+
+span#treeg {
+  font: 30px 'Bangers', cursive;
+  color: #000;
+  text-shadow: 3px 1px 0px #b6fdc5;
 }
 
 /*table{
