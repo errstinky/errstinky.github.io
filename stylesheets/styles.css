@@ -385,6 +385,12 @@ span#treeg {
   text-shadow: 3px 1px 0px #b6fdc5;
 }
 
+span#treep {
+  font: 30px 'Bangers', cursive;
+  color: #000;
+  text-shadow: 3px 1px 0px #8A70EC;
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
