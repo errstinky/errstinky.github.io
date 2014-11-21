@@ -376,7 +376,7 @@ span#three {
 span#threedee {
   font: 40px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 1px 1px #63fc83, -2px -1px 1px #10fa41;
+  text-shadow: 2px 1px 0px #10fa41, -2px -1px 0px #63fc83;
 }
 
 span#tree {
