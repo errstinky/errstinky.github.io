@@ -508,6 +508,23 @@ booxg {
   outline: #b6fdc5 dotted 2px;
 }
 
+booxw {
+  width: 100%;
+  display: block;
+  background: #fff;
+  /*font-size: 1.9em; */
+  margin: 0.67em 0;
+  line-height: 110%;
+  text-align: center;
+  padding: 15px;
+  /*border: 1px solid #ddd;*/
+  box-sizing: border-box;
+  -webkit-box-shadow: -10px 10px 0px 0px #8A70EC;
+  -moz-box-shadow:    -10px 10px 0px 0px #8A70EC;
+  box-shadow:         -10px 10px 0px 0px #8A70EC;
+  outline: #8A70EC dotted 2px;
+}
+
 boxed.grey {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#ebebeb, #C0C0C0);
