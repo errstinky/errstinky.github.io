@@ -446,9 +446,9 @@ boxed {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px rgba(66, 251, 105, 0.75);
-  -moz-box-shadow:    10px 10px 0px 0px rgba(66, 251, 105, 0.75);
-  box-shadow:         10px 10px 0px 0px rgba(66, 251, 105, 0.75);
+  -webkit-box-shadow: -10px 10px 0px 0px rgba(66, 251, 105, 0.75);
+  -moz-box-shadow:    -10px 10px 0px 0px rgba(66, 251, 105, 0.75);
+  box-shadow:         -10px 10px 0px 0px rgba(66, 251, 105, 0.75);
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
@@ -469,9 +469,9 @@ boox {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #8A70EC;
-  -moz-box-shadow:    -10px 10px 0px 0px #8A70EC;
-  box-shadow:         -10px 10px 0px 0px #8A70EC;
+  -webkit-box-shadow: 10px 10px 0px 0px #8A70EC;
+  -moz-box-shadow:    10px 10px 0px 0px #8A70EC;
+  box-shadow:         10px 10px 0px 0px #8A70EC;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
