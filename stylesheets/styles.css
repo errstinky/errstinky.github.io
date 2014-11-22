@@ -534,7 +534,7 @@ booxw {
 booxw2 {
   width: 100%;
   display: block;
-  background: #fff;
+  background: #e6e6e6;
   /*font-size: 1.9em; */
   margin: 0.67em 0;
   line-height: 110%;
@@ -542,10 +542,10 @@ booxw2 {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px ##FF0000;
-  -moz-box-shadow:    -10px 10px 0px 0px ##FF0000;
-  box-shadow:         -10px 10px 0px 0px ##FF0000;
-  outline: ##FF0000 dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px ##f00;
+  -moz-box-shadow:    -10px 10px 0px 0px ##f00;
+  box-shadow:         -10px 10px 0px 0px ##f00;
+  outline: ##f00 dotted 2px;
 }
 
 boxed.grey {
