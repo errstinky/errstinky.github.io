@@ -328,29 +328,29 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #324ba6, 4px 4px 0px #f58133;
+  text-shadow: 2px 2px 0px #324ba6, 4px 4px 0px #f601ff;
   font: 80px 'Bangers', cursive;
   color: #fff;
 }
 span#learn {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #f58133;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #f601ff;
   font: 80px 'Bangers', cursive;
   color: #324ba6;
 }
 span#grow {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #324ba6;
   font: 80px 'Bangers', cursive;
-  color: #f58133;
+  color: #f601ff;
 }
 
 span#feed {
-  text-shadow: 2px 2px 0px #324ba6, 4px 4px 0px #f58133;
+  text-shadow: 2px 2px 0px #324ba6, 4px 4px 0px #f601ff;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
 
 span#feed2 {
-  text-shadow: 2px 2px 0px #d5d5d5, 4px 4px 0px #f58133;
+  text-shadow: 2px 2px 0px #d5d5d5, 4px 4px 0px #f601ff;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
@@ -542,10 +542,10 @@ booxw2 {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #f58133;
-  -moz-box-shadow:    10px 10px 0px 0px #f58133;
-  box-shadow:         10px 10px 0px 0px #f58133;
-  outline: #f58133 dotted 2px;
+  -webkit-box-shadow: 10px 10px 0px 0px #f601ff;
+  -moz-box-shadow:    10px 10px 0px 0px #f601ff;
+  box-shadow:         10px 10px 0px 0px #f601ff;
+  outline: #f601ff dotted 2px;
 }
 
 boxed.grey {
@@ -859,10 +859,10 @@ a.box {
   width: 100px;
   height: 35px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px #f58133;
-  -moz-box-shadow:    4px 4px 0px 0px #f58133;
-  box-shadow:         4px 4px 0px 0px #f58133;
-  outline: #f58133 dotted 1px;
+  -webkit-box-shadow: 4px 4px 0px 0px #f601ff;
+  -moz-box-shadow:    4px 4px 0px 0px #f601ff;
+  box-shadow:         4px 4px 0px 0px #f601ff;
+  outline: #f601ff dotted 1px;
 }
 
 gree {
@@ -1372,7 +1372,7 @@ pre code {
 table {
   width: 100%;
   border-collapse: collapse;
-  border: 1px solid #f58133;
+  border: 1px solid #f601ff;
 }
 
 th {
@@ -1385,16 +1385,16 @@ th {
 td {
   text-align: center;
   padding: 5px 10px;
-  border-right: 1px solid #f58133;
+  border-right: 1px solid #f601ff;
  /* border-bottom: 1px solid #bbb;
   
-  border-top: 2px solid #f58133;
-  border-left: 2px solid #f58133;*/
+  border-top: 2px solid #f601ff;
+  border-left: 2px solid #f601ff;*/
 }
 
 /*
 td:first-child {
-  border-left: 1px solid #f58133;
+  border-left: 1px solid #f601ff;
 }*/
 
 hr {
@@ -1435,7 +1435,7 @@ header {
 header h1 {
   font: 50px/60px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 2px 2px 0px #d5d5d5, 4px 4px 0px #f58133;
+  text-shadow: 2px 2px 0px #d5d5d5, 4px 4px 0px #f601ff;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
@@ -1595,11 +1595,11 @@ header p {
     font-size: 14px;
     /*border: 1px solid #D78591;*/
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#f58133, #f58133);
-    background: -moz-linear-gradient(#f58133, #f58133);
-    background: -o-linear-gradient(#f58133, #f58133);
-    background: -ms-linear-gradient(#f58133, #f58133);
-    background: linear-gradient(#f58133, #f58133);
+    background: -webkit-linear-gradient(#f601ff, #f601ff);
+    background: -moz-linear-gradient(#f601ff, #f601ff);
+    background: -o-linear-gradient(#f601ff, #f601ff);
+    background: -ms-linear-gradient(#f601ff, #f601ff);
+    background: linear-gradient(#f601ff, #f601ff);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
