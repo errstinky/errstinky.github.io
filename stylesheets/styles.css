@@ -9,7 +9,7 @@ font-family: 'Press Start 2P', cursive;
   -webkit-box-shadow: 2px 2px 2px #000;
   -moz-box-shadow: 2px 2px 2px #000;
   box-shadow: 2px 2px 2px #000;
-  outline: 2px dashed #f601ff;
+  outline: 2px dashed #7f00ff;
   outline-offset: -5px;
   background-color: #e6e6e6;*/
 
@@ -328,23 +328,23 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #f601ff, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #7f00ff, 4px 4px 0px #42fb69;
   font: 80px 'Bangers', cursive;
   color: #fff;
 }
 span#learn {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #42fb69;
   font: 80px 'Bangers', cursive;
-  color: #f601ff;
+  color: #7f00ff;
 }
 span#grow {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #f601ff;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #7f00ff;
   font: 80px 'Bangers', cursive;
   color: #42fb69;
 }
 
 span#feed {
-  text-shadow: 2px 2px 0px #f601ff, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #7f00ff, 4px 4px 0px #42fb69;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
@@ -469,9 +469,9 @@ boox {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #f601ff;
-  -moz-box-shadow:    10px 10px 0px 0px #f601ff;
-  box-shadow:         10px 10px 0px 0px #f601ff;
+  -webkit-box-shadow: 10px 10px 0px 0px #7f00ff;
+  -moz-box-shadow:    10px 10px 0px 0px #7f00ff;
+  box-shadow:         10px 10px 0px 0px #7f00ff;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
@@ -525,10 +525,10 @@ booxw {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #f601ff;
-  -moz-box-shadow:    -10px 10px 0px 0px #f601ff;
-  box-shadow:         -10px 10px 0px 0px #f601ff;
-  outline: #f601ff dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #7f00ff;
+  -moz-box-shadow:    -10px 10px 0px 0px #7f00ff;
+  box-shadow:         -10px 10px 0px 0px #7f00ff;
+  outline: #7f00ff dotted 2px;
 }
 
 booxw2 {
@@ -1431,7 +1431,7 @@ header {
 header h1 {
   font: 50px/60px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #f601ff;
+  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #7f00ff;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
