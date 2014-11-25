@@ -11,7 +11,7 @@ font-family: 'Press Start 2P', cursive;
   box-shadow: 2px 2px 2px #000;
   outline: 2px dashed #7f00ff;
   outline-offset: -5px;
-  background-color: #e6e6e6;*/
+  background-color: #dedede;*/
 
 
 .righh {
@@ -35,7 +35,7 @@ e1:hover {
 }
 
 e1.a {
-  border-bottom-color: #e6e6e6
+  border-bottom-color: #dedede
 }
 
 e1.b {
@@ -483,7 +483,7 @@ boox {
 booxp {
   width: 100%;
   display: block;
-  background: #e6e6e6;
+  background: #dedede;
   /*font-size: 1.9em; */
   margin: 0.67em 0;
   line-height: 110%;
@@ -500,7 +500,7 @@ booxp {
 booxg {
   width: 100%;
   display: block;
-  background: #e6e6e6;
+  background: #dedede;
   /*font-size: 1.9em; */
   margin: 0.67em 0;
   line-height: 110%;
@@ -534,7 +534,7 @@ booxw {
 booxw2 {
   width: 100%;
   display: block;
-  background: #e6e6e6;
+  background: #dedede;
   /*font-size: 1.9em; */
   margin: 0.67em 0;
   line-height: 110%;
