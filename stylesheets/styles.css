@@ -350,7 +350,7 @@ span#feed {
 }
 
 span#feed2 {
-  text-shadow: 2px 2px 0px #ffeaba, 4px 4px 0px #f58133;
+  text-shadow: 2px 2px 0px #ffd6ba, 4px 4px 0px #f58133;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
@@ -382,7 +382,7 @@ span#threedee {
 span#tree {
   font: 30px 'Bangers', cursive;
   color: #000;
-  text-shadow: 3px 1px 0px #ffeaba;
+  text-shadow: 3px 1px 0px #ffd6ba;
 }
 
 span#treeg {
@@ -438,7 +438,7 @@ th, td {
 boxed {
   width: 100%;
   display: block;
-  background: #ffeaba;
+  background: #ffd6ba;
   font-size: 1.9em;
   margin: 0.67em 0;
   line-height: 110%;
@@ -491,10 +491,10 @@ booxp {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #ffeaba;
-  -moz-box-shadow:    -10px 10px 0px 0px #ffeaba;
-  box-shadow:         -10px 10px 0px 0px #ffeaba;
-  outline: #ffeaba dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #ffd6ba;
+  -moz-box-shadow:    -10px 10px 0px 0px #ffd6ba;
+  box-shadow:         -10px 10px 0px 0px #ffd6ba;
+  outline: #ffd6ba dotted 2px;
 }
 
 booxg {
@@ -1423,7 +1423,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background-color: #ffeaba;
+  background-color: #ffd6ba;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -1435,7 +1435,7 @@ header {
 header h1 {
   font: 50px/60px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 2px 2px 0px #ffeaba, 4px 4px 0px #f58133;
+  text-shadow: 2px 2px 0px #ffd6ba, 4px 4px 0px #f58133;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
@@ -1629,11 +1629,11 @@ header p {
 }       
 .box2:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#ffeaba, #a38ef0);
-  background: -moz-linear-gradient(#ffeaba, #a38ef0);
-  background: -o-linear-gradient(#ffeaba, #a38ef0);
-  background: -ms-linear-gradient(#ffeaba, #a38ef0);
-  background: linear-gradient(#ffeaba, #a38ef0);
+  background: -webkit-linear-gradient(#ffd6ba, #a38ef0);
+  background: -moz-linear-gradient(#ffd6ba, #a38ef0);
+  background: -o-linear-gradient(#ffd6ba, #a38ef0);
+  background: -ms-linear-gradient(#ffd6ba, #a38ef0);
+  background: linear-gradient(#ffd6ba, #a38ef0);
 }   
 .box3:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
