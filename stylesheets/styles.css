@@ -859,14 +859,10 @@ a.box {
   width: 100px;
   height: 35px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px rgba(66, 251, 105, 0.75);
-  -moz-box-shadow:    4px 4px 0px 0px rgba(66, 251, 105, 0.75);
-  box-shadow:         4px 4px 0px 0px rgba(66, 251, 105, 0.75);
-  outline: #42fb69 dotted 1px;
-}
-
-gree {
-  color: #47a11b;
+  -webkit-box-shadow: 4px 4px 0px 0px #8A70EC;
+  -moz-box-shadow:    4px 4px 0px 0px #8A70EC;
+  box-shadow:         4px 4px 0px 0px #8A70EC;
+  outline: #8A70EC dotted 1px;
 }
 
 /* =============================================================================
