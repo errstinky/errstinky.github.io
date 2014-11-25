@@ -328,23 +328,23 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #7f00ff, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #7f00ff, 4px 4px 0px #00FF33;
   font: 80px 'Bangers', cursive;
   color: #fff;
 }
 span#learn {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #00FF33;
   font: 80px 'Bangers', cursive;
   color: #7f00ff;
 }
 span#grow {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #7f00ff;
   font: 80px 'Bangers', cursive;
-  color: #42fb69;
+  color: #00FF33;
 }
 
 span#feed {
-  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #00FF33;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
@@ -542,10 +542,10 @@ booxw2 {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #42fb69;
-  -moz-box-shadow:    10px 10px 0px 0px #42fb69;
-  box-shadow:         10px 10px 0px 0px #42fb69;
-  outline: #42fb69 dotted 2px;
+  -webkit-box-shadow: 10px 10px 0px 0px #00FF33;
+  -moz-box-shadow:    10px 10px 0px 0px #00FF33;
+  box-shadow:         10px 10px 0px 0px #00FF33;
+  outline: #00FF33 dotted 2px;
 }
 
 boxed.grey {
@@ -859,10 +859,10 @@ a.box {
   width: 100px;
   height: 35px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px #42fb69;
-  -moz-box-shadow:    4px 4px 0px 0px #42fb69;
-  box-shadow:         4px 4px 0px 0px #42fb69;
-  outline: #42fb69 dotted 1px;
+  -webkit-box-shadow: 4px 4px 0px 0px #00FF33;
+  -moz-box-shadow:    4px 4px 0px 0px #00FF33;
+  box-shadow:         4px 4px 0px 0px #00FF33;
+  outline: #00FF33 dotted 1px;
 }
 
 /* =============================================================================
@@ -1368,7 +1368,7 @@ pre code {
 table {
   width: 100%;
   border-collapse: collapse;
-  border: 1px solid #42fb69;
+  border: 1px solid #00FF33;
 }
 
 th {
@@ -1381,16 +1381,16 @@ th {
 td {
   text-align: center;
   padding: 5px 10px;
-  border-right: 1px solid #42fb69;
+  border-right: 1px solid #00FF33;
  /* border-bottom: 1px solid #bbb;
   
-  border-top: 2px solid #42fb69;
-  border-left: 2px solid #42fb69;*/
+  border-top: 2px solid #00FF33;
+  border-left: 2px solid #00FF33;*/
 }
 
 /*
 td:first-child {
-  border-left: 1px solid #42fb69;
+  border-left: 1px solid #00FF33;
 }*/
 
 hr {
@@ -1591,11 +1591,11 @@ header p {
     font-size: 14px;
     /*border: 1px solid #D78591;*/
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#06f337, #42fb69);
-    background: -moz-linear-gradient(#06f337, #42fb69);
-    background: -o-linear-gradient(#06f337, #42fb69);
-    background: -ms-linear-gradient(#06f337, #42fb69);
-    background: linear-gradient(#06f337, #42fb69);
+    background: -webkit-linear-gradient(#06f337, #00FF33);
+    background: -moz-linear-gradient(#06f337, #00FF33);
+    background: -o-linear-gradient(#06f337, #00FF33);
+    background: -ms-linear-gradient(#06f337, #00FF33);
+    background: linear-gradient(#06f337, #00FF33);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
