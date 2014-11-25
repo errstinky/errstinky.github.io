@@ -9,7 +9,7 @@ font-family: 'Press Start 2P', cursive;
   -webkit-box-shadow: 2px 2px 2px #000;
   -moz-box-shadow: 2px 2px 2px #000;
   box-shadow: 2px 2px 2px #000;
-  outline: 2px dashed #8A70EC;
+  outline: 2px dashed #f601ff;
   outline-offset: -5px;
   background-color: #e6e6e6;*/
 
@@ -328,23 +328,23 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #8A70EC, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #f601ff, 4px 4px 0px #42fb69;
   font: 80px 'Bangers', cursive;
   color: #fff;
 }
 span#learn {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #42fb69;
   font: 80px 'Bangers', cursive;
-  color: #8A70EC;
+  color: #f601ff;
 }
 span#grow {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #8A70EC;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #f601ff;
   font: 80px 'Bangers', cursive;
   color: #42fb69;
 }
 
 span#feed {
-  text-shadow: 2px 2px 0px #8A70EC, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #f601ff, 4px 4px 0px #42fb69;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
@@ -469,9 +469,9 @@ boox {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #8A70EC;
-  -moz-box-shadow:    10px 10px 0px 0px #8A70EC;
-  box-shadow:         10px 10px 0px 0px #8A70EC;
+  -webkit-box-shadow: 10px 10px 0px 0px #f601ff;
+  -moz-box-shadow:    10px 10px 0px 0px #f601ff;
+  box-shadow:         10px 10px 0px 0px #f601ff;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
@@ -525,10 +525,10 @@ booxw {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #8A70EC;
-  -moz-box-shadow:    -10px 10px 0px 0px #8A70EC;
-  box-shadow:         -10px 10px 0px 0px #8A70EC;
-  outline: #8A70EC dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #f601ff;
+  -moz-box-shadow:    -10px 10px 0px 0px #f601ff;
+  box-shadow:         -10px 10px 0px 0px #f601ff;
+  outline: #f601ff dotted 2px;
 }
 
 booxw2 {
@@ -859,10 +859,10 @@ a.box {
   width: 100px;
   height: 35px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px #8A70EC;
-  -moz-box-shadow:    4px 4px 0px 0px #8A70EC;
-  box-shadow:         4px 4px 0px 0px #8A70EC;
-  outline: #8A70EC dotted 1px;
+  -webkit-box-shadow: 4px 4px 0px 0px #42fb69;
+  -moz-box-shadow:    4px 4px 0px 0px #42fb69;
+  box-shadow:         4px 4px 0px 0px #42fb69;
+  outline: #42fb69 dotted 1px;
 }
 
 /* =============================================================================
@@ -1431,7 +1431,7 @@ header {
 header h1 {
   font: 50px/60px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 2px 2px 0px #e0d9fa, 4px 4px 0px #42fb69;
+  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #f601ff;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
