@@ -477,16 +477,16 @@ boox {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #FFE487;
-  -moz-box-shadow:    10px 10px 0px 0px #FFE487;
-  box-shadow:         10px 10px 0px 0px #FFE487;
+  -webkit-box-shadow: 10px 10px 0px 0px #ffbd44;
+  -moz-box-shadow:    10px 10px 0px 0px #ffbd44;
+  box-shadow:         10px 10px 0px 0px #ffbd44;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
   -ms-border-radius: 1px;
   -khtml-border-radius: 1px;
   border-radius: 1px;
-  outline: #FFE487 dotted 2px;
+  outline: #ffbd44 dotted 2px;
 }
 
 booxp {
@@ -500,10 +500,10 @@ booxp {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #FFEE89;
-  -moz-box-shadow:    -10px 10px 0px 0px #FFEE89;
-  box-shadow:         -10px 10px 0px 0px #FFEE89;
-  outline: #FFEE89 dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #ffbd44;
+  -moz-box-shadow:    -10px 10px 0px 0px #ffbd44;
+  box-shadow:         -10px 10px 0px 0px #ffbd44;
+  outline: #ffbd44 dotted 2px;
 }
 
 booxg {
