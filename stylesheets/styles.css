@@ -330,7 +330,7 @@ e1.i {
 span#ask {
   text-shadow: 2px 2px 0px #FFE487, 4px 4px 0px #4DC8C8;
   font: 80px 'Bangers', cursive;
-  color: #dedede;
+  color: #000;
 }
 span#learn {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #4DC8C8;
