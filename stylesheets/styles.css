@@ -376,13 +376,13 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #35D0D7, -2px -2px 0px #ffbd44;
+  text-shadow: 2px 2px 0px #60dadf, -2px -2px 0px #ffbd44;
 }
 
 span#threedee {
   font: 40px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 3px 3px 3px #7AE5E5, -3px -3px 10px #FF8905;
+  text-shadow: 3px 3px 3px #7AE5E5, -3px -3px 10px #ffa138;
 }
 
 span#tree {
