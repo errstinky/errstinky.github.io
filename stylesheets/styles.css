@@ -376,7 +376,7 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #DAFCFC, -2px -2px 0px #FFE487;
+  text-shadow: 2px 2px 0px #8AE5E5, -2px -2px 0px #FFE487;
 }
 
 span#threedee {
@@ -1428,7 +1428,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background-color: #9aeeee;
+  background-color: #8AE5E5;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -1440,7 +1440,7 @@ header {
 header h1 {
   font: 50px/60px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 2px 2px 0px #9aeeee, 4px 4px 0px #FFE487;
+  text-shadow: 2px 2px 0px #8AE5E5, 4px 4px 0px #FFE487;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
