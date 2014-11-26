@@ -328,23 +328,23 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #7f00ff, 4px 4px 0px #220EE8;
+  text-shadow: 2px 2px 0px #7f00ff, 4px 4px 0px #093BF2;
   font: 80px 'Bangers', cursive;
   color: #fff;
 }
 span#learn {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #220EE8;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #093BF2;
   font: 80px 'Bangers', cursive;
   color: #7f00ff;
 }
 span#grow {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #7f00ff;
   font: 80px 'Bangers', cursive;
-  color: #220EE8;
+  color: #093BF2;
 }
 
 span#feed {
-  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #220EE8;
+  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #093BF2;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
@@ -452,16 +452,16 @@ boxed {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #220EE8;
-  -moz-box-shadow:    -10px 10px 0px 0px #220EE8;
-  box-shadow:         -10px 10px 0px 0px #220EE8;
+  -webkit-box-shadow: -10px 10px 0px 0px #093BF2;
+  -moz-box-shadow:    -10px 10px 0px 0px #093BF2;
+  box-shadow:         -10px 10px 0px 0px #093BF2;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
   -ms-border-radius: 1px;
   -khtml-border-radius: 1px;
   border-radius: 1px;
-  outline: #220EE8 dotted 2px;
+  outline: #093BF2 dotted 2px;
 
 }
 
@@ -551,10 +551,10 @@ booxw2 {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #220EE8;
-  -moz-box-shadow:    10px 10px 0px 0px #220EE8;
-  box-shadow:         10px 10px 0px 0px #220EE8;
-  outline: #220EE8 dotted 2px;
+  -webkit-box-shadow: 10px 10px 0px 0px #093BF2;
+  -moz-box-shadow:    10px 10px 0px 0px #093BF2;
+  box-shadow:         10px 10px 0px 0px #093BF2;
+  outline: #093BF2 dotted 2px;
 }
 
 boxed.grey {
@@ -868,10 +868,10 @@ a.box {
   width: 100px;
   height: 35px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px #220EE8;
-  -moz-box-shadow:    4px 4px 0px 0px #220EE8;
-  box-shadow:         4px 4px 0px 0px #220EE8;
-  outline: #220EE8 dotted 1px;
+  -webkit-box-shadow: 4px 4px 0px 0px #093BF2;
+  -moz-box-shadow:    4px 4px 0px 0px #093BF2;
+  box-shadow:         4px 4px 0px 0px #093BF2;
+  outline: #093BF2 dotted 1px;
 }
 
 /* =============================================================================
@@ -1377,7 +1377,7 @@ pre code {
 table {
   width: 100%;
   border-collapse: collapse;
-  border: 1px solid #220EE8;
+  border: 1px solid #093BF2;
 }
 
 th {
@@ -1390,16 +1390,16 @@ th {
 td {
   text-align: center;
   padding: 5px 10px;
-  border-right: 1px solid #220EE8;
+  border-right: 1px solid #093BF2;
  /* border-bottom: 1px solid #bbb;
   
-  border-top: 2px solid #220EE8;
-  border-left: 2px solid #220EE8;*/
+  border-top: 2px solid #093BF2;
+  border-left: 2px solid #093BF2;*/
 }
 
 /*
 td:first-child {
-  border-left: 1px solid #220EE8;
+  border-left: 1px solid #093BF2;
 }*/
 
 hr {
@@ -1600,11 +1600,11 @@ header p {
     font-size: 14px;
     /*border: 1px solid #D78591;*/
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#06f337, #220EE8);
-    background: -moz-linear-gradient(#06f337, #220EE8);
-    background: -o-linear-gradient(#06f337, #220EE8);
-    background: -ms-linear-gradient(#06f337, #220EE8);
-    background: linear-gradient(#06f337, #220EE8);
+    background: -webkit-linear-gradient(#06f337, #093BF2);
+    background: -moz-linear-gradient(#06f337, #093BF2);
+    background: -o-linear-gradient(#06f337, #093BF2);
+    background: -ms-linear-gradient(#06f337, #093BF2);
+    background: linear-gradient(#06f337, #093BF2);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
