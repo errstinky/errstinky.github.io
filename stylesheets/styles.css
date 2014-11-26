@@ -517,10 +517,10 @@ booxg {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #8DA2EE;
-  -moz-box-shadow:    10px 10px 0px 0px #8DA2EE;
-  box-shadow:         10px 10px 0px 0px #8DA2EE;
-  outline: #8DA2EE dotted 2px;
+  -webkit-box-shadow: 10px 10px 0px 0px #8AE5E5;
+  -moz-box-shadow:    10px 10px 0px 0px #8AE5E5;
+  box-shadow:         10px 10px 0px 0px #8AE5E5;
+  outline: #8AE5E5 dotted 2px;
 }
 
 booxw {
@@ -868,10 +868,10 @@ a.box {
   width: 100px;
   height: 35px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px #7AE5E5;
-  -moz-box-shadow:    4px 4px 0px 0px #7AE5E5;
-  box-shadow:         4px 4px 0px 0px #7AE5E5;
-  outline: #7AE5E5 dotted 1px;
+  -webkit-box-shadow: 4px 4px 0px 0px #FFDC63;
+  -moz-box-shadow:    4px 4px 0px 0px #FFDC63;
+  box-shadow:         4px 4px 0px 0px #FFDC63;
+  outline: #FFDC63 dotted 1px;
 }
 
 /* =============================================================================
