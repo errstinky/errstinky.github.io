@@ -330,7 +330,7 @@ e1.i {
 span#ask {
   text-shadow: 2px 2px 0px #FF7F00, 4px 4px 0px #093BF2;
   font: 80px 'Bangers', cursive;
-  color: #fff;
+  color: #efefef;
 }
 span#learn {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #093BF2;
@@ -376,7 +376,7 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #3C62EF, -2px -2px 0px #FF9226;
+  text-shadow: 2px 2px 0px #8DA2EE, -2px -2px 0px #FFC389;
 }
 
 span#threedee {
@@ -388,7 +388,7 @@ span#threedee {
 span#tree {
   font: 30px 'Bangers', cursive;
   color: #000;
-  text-shadow: 3px 1px 0px #B481E9;
+  text-shadow: 3px 1px 0px #FFC389;
 }
 
 span#treeg {
@@ -500,10 +500,10 @@ booxp {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #B481E9;
-  -moz-box-shadow:    -10px 10px 0px 0px #B481E9;
-  box-shadow:         -10px 10px 0px 0px #B481E9;
-  outline: #B481E9 dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #FFC389;
+  -moz-box-shadow:    -10px 10px 0px 0px #FFC389;
+  box-shadow:         -10px 10px 0px 0px #FFC389;
+  outline: #FFC389 dotted 2px;
 }
 
 booxg {
@@ -1634,11 +1634,11 @@ header p {
 }       
 .box2:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#B481E9, #a38ef0);
-  background: -moz-linear-gradient(#B481E9, #a38ef0);
-  background: -o-linear-gradient(#B481E9, #a38ef0);
-  background: -ms-linear-gradient(#B481E9, #a38ef0);
-  background: linear-gradient(#B481E9, #a38ef0);
+  background: -webkit-linear-gradient(#FFC389, #a38ef0);
+  background: -moz-linear-gradient(#FFC389, #a38ef0);
+  background: -o-linear-gradient(#FFC389, #a38ef0);
+  background: -ms-linear-gradient(#FFC389, #a38ef0);
+  background: linear-gradient(#FFC389, #a38ef0);
 }   
 .box3:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
