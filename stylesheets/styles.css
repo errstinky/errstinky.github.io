@@ -376,7 +376,7 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #8AE5E5, -2px -2px 0px #FFE487;
+  text-shadow: 2px 2px 0px #8AE5E5, -2px -2px 0px #ffbd44;
 }
 
 span#threedee {
@@ -534,10 +534,10 @@ booxw {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #FFD648;
-  -moz-box-shadow:    -10px 10px 0px 0px #FFD648;
-  box-shadow:         -10px 10px 0px 0px #FFD648;
-  outline: #FFD648 dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #FFA500;
+  -moz-box-shadow:    -10px 10px 0px 0px #FFA500;
+  box-shadow:         -10px 10px 0px 0px #FFA500;
+  outline: #FFA500 dotted 2px;
 }
 
 booxw2 {
