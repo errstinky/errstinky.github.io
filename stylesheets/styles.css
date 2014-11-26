@@ -376,13 +376,13 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #9188EB, -2px -2px 0px #B481E9;
+  text-shadow: 2px 2px 0px #8DA2EE, -2px -2px 0px #B481E9;
 }
 
 span#threedee {
   font: 40px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 3px 3px 3px #B481E9, -3px -3px 10px #9188EB;
+  text-shadow: 3px 3px 3px #FF9226, -3px -3px 10px #8DA2EE;
 }
 
 span#tree {
@@ -394,7 +394,7 @@ span#tree {
 span#treeg {
   font: 30px 'Bangers', cursive;
   color: #000;
-  text-shadow: 3px 1px 0px #9188EB;
+  text-shadow: 3px 1px 0px #8DA2EE;
 }
 
 span#treep {
@@ -517,10 +517,10 @@ booxg {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #9188EB;
-  -moz-box-shadow:    10px 10px 0px 0px #9188EB;
-  box-shadow:         10px 10px 0px 0px #9188EB;
-  outline: #9188EB dotted 2px;
+  -webkit-box-shadow: 10px 10px 0px 0px #8DA2EE;
+  -moz-box-shadow:    10px 10px 0px 0px #8DA2EE;
+  box-shadow:         10px 10px 0px 0px #8DA2EE;
+  outline: #8DA2EE dotted 2px;
 }
 
 booxw {
