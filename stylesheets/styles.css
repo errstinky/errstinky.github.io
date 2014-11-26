@@ -376,7 +376,7 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #8AE5E5, -2px -2px 0px #ffbd44;
+  text-shadow: 2px 2px 0px #35D0D7, -2px -2px 0px #ffbd44;
 }
 
 span#threedee {
@@ -516,10 +516,10 @@ booxg {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #8AE5E5;
-  -moz-box-shadow:    10px 10px 0px 0px #8AE5E5;
-  box-shadow:         10px 10px 0px 0px #8AE5E5;
-  outline: #8AE5E5 dotted 2px;
+  -webkit-box-shadow: 10px 10px 0px 0px #35D0D7;
+  -moz-box-shadow:    10px 10px 0px 0px #35D0D7;
+  box-shadow:         10px 10px 0px 0px #35D0D7;
+  outline: #35D0D7 dotted 2px;
 }
 
 booxw {
@@ -1427,7 +1427,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background-color: #8AE5E5;
+  background-color: #35D0D7;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -1439,7 +1439,7 @@ header {
 header h1 {
   font: 50px/60px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 2px 2px 0px #8AE5E5, 4px 4px 0px #FF8905;
+  text-shadow: 2px 2px 0px #35D0D7, 4px 4px 0px #FF8905;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
