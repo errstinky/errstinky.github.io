@@ -9,7 +9,7 @@ font-family: 'Press Start 2P', cursive;
   -webkit-box-shadow: 2px 2px 2px #000;
   -moz-box-shadow: 2px 2px 2px #000;
   box-shadow: 2px 2px 2px #000;
-  outline: 2px dashed #FF7F00;
+  outline: 2px dashed #FFDA00;
   outline-offset: -5px;
   background-color: #dedede;*/
 
@@ -328,17 +328,17 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #FF7F00, 4px 4px 0px #093BF2;
+  text-shadow: 2px 2px 0px #FFDA00, 4px 4px 0px #093BF2;
   font: 80px 'Bangers', cursive;
   color: #efefef;
 }
 span#learn {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #093BF2;
   font: 80px 'Bangers', cursive;
-  color: #FF7F00;
+  color: #FFDA00;
 }
 span#grow {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #FF7F00;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #FFDA00;
   font: 80px 'Bangers', cursive;
   color: #093BF2;
 }
@@ -350,7 +350,7 @@ span#feed {
 }
 
 span#feed2 {
-  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #FF7F00;
+  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #FFDA00;
   font: 14pt 'Press Start 2P', cursive;
   color: #000;
 }
@@ -477,16 +477,16 @@ boox {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #FF7F00;
-  -moz-box-shadow:    10px 10px 0px 0px #FF7F00;
-  box-shadow:         10px 10px 0px 0px #FF7F00;
+  -webkit-box-shadow: 10px 10px 0px 0px #FFDA00;
+  -moz-box-shadow:    10px 10px 0px 0px #FFDA00;
+  box-shadow:         10px 10px 0px 0px #FFDA00;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
   -ms-border-radius: 1px;
   -khtml-border-radius: 1px;
   border-radius: 1px;
-  outline: #FF7F00 dotted 2px;
+  outline: #FFDA00 dotted 2px;
 }
 
 booxp {
@@ -534,10 +534,10 @@ booxw {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #FF7F00;
-  -moz-box-shadow:    -10px 10px 0px 0px #FF7F00;
-  box-shadow:         -10px 10px 0px 0px #FF7F00;
-  outline: #FF7F00 dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #FFDA00;
+  -moz-box-shadow:    -10px 10px 0px 0px #FFDA00;
+  box-shadow:         -10px 10px 0px 0px #FFDA00;
+  outline: #FFDA00 dotted 2px;
 }
 
 booxw2 {
@@ -1440,7 +1440,7 @@ header {
 header h1 {
   font: 50px/60px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #e43afb;
-  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #FF7F00;
+  text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #FFDA00;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
