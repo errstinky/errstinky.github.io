@@ -477,16 +477,16 @@ boox {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 0px 0px #7608E7;
-  -moz-box-shadow:    10px 10px 0px 0px #7608E7;
-  box-shadow:         10px 10px 0px 0px #7608E7;
+  -webkit-box-shadow: 10px 10px 0px 0px #FF7F00;
+  -moz-box-shadow:    10px 10px 0px 0px #FF7F00;
+  box-shadow:         10px 10px 0px 0px #FF7F00;
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   -o-border-radius: 1px;
   -ms-border-radius: 1px;
   -khtml-border-radius: 1px;
   border-radius: 1px;
-  outline: #7608E7 dotted 2px;
+  outline: #FF7F00 dotted 2px;
 }
 
 booxp {
