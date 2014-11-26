@@ -328,17 +328,17 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #FFE487, 4px 4px 0px #4DC8C8;
+  text-shadow: 2px 2px 0px #FFA500, 4px 4px 0px #4DC8C8;
   font: 80px 'Bangers', cursive;
   color: #000;
 }
 span#learn {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #4DC8C8;
   font: 80px 'Bangers', cursive;
-  color: #FFE487;
+  color: #FFA500;
 }
 span#grow {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #FFE487;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #FFA500;
   font: 80px 'Bangers', cursive;
   color: #4DC8C8;
 }
@@ -382,7 +382,7 @@ span#three {
 span#threedee {
   font: 40px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 3px 3px 3px #7AE5E5, -3px -3px 10px #8DA2EE;
+  text-shadow: 3px 3px 3px #7AE5E5, -3px -3px 10px #FFA500;
 }
 
 span#tree {
@@ -868,10 +868,10 @@ a.box {
   width: 100px;
   height: 35px;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px #FFDC63;
-  -moz-box-shadow:    4px 4px 0px 0px #FFDC63;
-  box-shadow:         4px 4px 0px 0px #FFDC63;
-  outline: #FFDC63 dotted 1px;
+  -webkit-box-shadow: 4px 4px 0px 0px #FFA500;
+  -moz-box-shadow:    4px 4px 0px 0px #FFA500;
+  box-shadow:         4px 4px 0px 0px #FFA500;
+  outline: #FFA500 dotted 1px;
 }
 
 /* =============================================================================
