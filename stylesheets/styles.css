@@ -499,10 +499,10 @@ booxp {
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #ffbd44;
-  -moz-box-shadow:    -10px 10px 0px 0px #ffbd44;
-  box-shadow:         -10px 10px 0px 0px #ffbd44;
-  outline: #ffbd44 dotted 2px;
+  -webkit-box-shadow: -10px 10px 0px 0px #FFA500;
+  -moz-box-shadow:    -10px 10px 0px 0px #FFA500;
+  box-shadow:         -10px 10px 0px 0px #FFA500;
+  outline: #FFA500 dotted 2px;
 }
 
 booxg {
