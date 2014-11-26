@@ -328,19 +328,19 @@ e1.i {
     100% { opacity: 1.0; }
 }
 span#ask {
-  text-shadow: 2px 2px 0px #FFE487, 4px 4px 0px #7AE5E5;
+  text-shadow: 2px 2px 0px #FFE487, 4px 4px 0px #4DC8C8;
   font: 80px 'Bangers', cursive;
   color: #efefef;
 }
 span#learn {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #7AE5E5;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #4DC8C8;
   font: 80px 'Bangers', cursive;
   color: #FFE487;
 }
 span#grow {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #FFE487;
   font: 80px 'Bangers', cursive;
-  color: #7AE5E5;
+  color: #4DC8C8;
 }
 
 span#feed {
@@ -376,7 +376,7 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #8AE5E5, -2px -2px 0px #FFE487;
+  text-shadow: 2px 2px 0px #DAFCFC, -2px -2px 0px #FFE487;
 }
 
 span#threedee {
