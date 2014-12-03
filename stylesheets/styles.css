@@ -350,7 +350,7 @@ span#feed {
 }
 
 span#feed2 {
-  text-shadow: 2px 2px 0px #35D0D7, 6px 6px 0px #FF8905;
+  text-shadow: -2px -2px 0px #FF8905, 2px 2px 0px #FF8905;
   font: 18pt 'Press Start 2P', cursive;
   color: #000;
 }
