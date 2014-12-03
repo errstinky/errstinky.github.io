@@ -1857,6 +1857,11 @@ footer {
     -o-text-overflow: ellipsis;
     -ms-text-overflow: ellipsis;
   }
+
+  span#feed2 {
+  font: 12pt 'Press Start 2P', cursive;
+}
+
   header p {
     display: none;
   }
@@ -1896,6 +1901,10 @@ footer {
     -o-text-overflow: ellipsis;
     -ms-text-overflow: ellipsis;
   }
+
+    span#feed2 {
+  font: 11pt 'Press Start 2P', cursive;
+}
 
     header h2 {
     font-size: 12px;
