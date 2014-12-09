@@ -7,6 +7,12 @@ RewriteCond %{HTTP_HOST} !^frankfeed\.com$ [NC,OR]
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://frankfeed.com/$1 [R=301,L]
 
+# ----------------------------------------------------------------------
+#Force non-www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
+RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+
 
 # ----------------------------------------------------------------------
 # Proper MIME type for all files
