@@ -868,10 +868,6 @@ a.box {
   height: 35px;
   color: #fff;
   text-decoration: none;
-  -webkit-box-shadow: 4px 4px 0px 0px #FF8905;
-  -moz-box-shadow:    4px 4px 0px 0px #FF8905;
-  box-shadow:         4px 4px 0px 0px #FF8905;
-  outline: #FF8905 dotted 1px;
 }
 
 /* =============================================================================
@@ -1467,7 +1463,7 @@ header p {
   height: 50px;
   margin-right: -900px;
   position: fixed;
-  top: 115px;
+  top: 0px;
   /*background: #D78591;*/
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#000, #080808);
