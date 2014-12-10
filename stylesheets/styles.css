@@ -865,7 +865,8 @@ a.white {
 a.box {
   display:block;
   width: 100px;
-  height: 35px;
+  height: 20px;
+  font-size: 16px;
   color: #fff;
   text-decoration: none;
 }
@@ -1416,14 +1417,14 @@ dt {
 }
 
 header {
-  padding: 20px 20px 45px 20px;
+  padding: 35px 20px 3px 20px;
   margin: 0;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   width: 100%;
-  text-align: center;
+  text-align: left;
   background-color: #35D0D7;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -1454,16 +1455,16 @@ header p {
 }
 
 #banner {                    
-  text-align: justify;
+  text-align: right;
   -ms-text-justify: distribute-all-lines;
   text-justify: distribute-all-lines;
   z-index: 100;
   left: 0;
-  right: 50%;
-  height: 50px;
-  margin-right: -900px;
+  right: 8%;
+  height: 30px;
+  margin-right: -1080px;
   position: fixed;
-  top: 115px;
+  top: 0px;
   /*background: #D78591;*/
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#000, #080808);
@@ -1550,22 +1551,16 @@ header p {
 
 .box1, .box2, .box3, .box4 {
     width: 100px;
-    height: 36px;
+    height: 30px;
     display: inline-block;
     *display: inline;
     zoom: 1
     padding: 10px 12px;
-    margin-top: 6px;
+    margin-top: -2px;
     font-size: 14px;
     /*background-color: #fafaf8;*/
 
     /*border: 1px solid #D78591;*/
-    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#080808, #000);
-    background: -moz-linear-gradient(#080808, #000);
-    background: -o-linear-gradient(#080808, #000);
-    background: -ms-linear-gradient(#080808, #000);
-    background: linear-gradient(#080808, #000);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
