@@ -13,13 +13,6 @@ font-family: 'Press Start 2P', cursive;
   outline-offset: -5px;
   background-color: #dedede;*/
 
-.circlebg {
-    position: relative; 
-    height: 300px; 
-    width: 300px; 
-    background-color: #000; 
-    border-radius: 300px;
-}
 
 .righh {
   text-align: right;
@@ -448,7 +441,7 @@ th, td {
   float: left;
 }*/
 
- {
+boxed {
   width: 100%;
   display: block;
   background: #fff;
@@ -873,6 +866,7 @@ a.box {
   display:block;
   width: 100px;
   height: 35px;
+  color: #fff;
   text-decoration: none;
   -webkit-box-shadow: 4px 4px 0px 0px #FF8905;
   -moz-box-shadow:    4px 4px 0px 0px #FF8905;
@@ -1272,7 +1266,7 @@ body {
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  background: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1326,7 +1320,7 @@ ul {
 
 strong {
   font-weight: bold;
-  color: #333;
+  color: #fff;
 }
 
 .wrapper {
@@ -1471,16 +1465,16 @@ header p {
   left: 0;
   right: 50%;
   height: 50px;
-  margin-right: -382px;
+  margin-right: -900px;
   position: fixed;
   top: 115px;
   /*background: #D78591;*/
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
-  background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
-  background: -o-linear-gradient(#FAFAF8, #F9F6F1);
-  background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
-  background: linear-gradient(#FAFAF8, #F9F6F1);
+  background: -webkit-linear-gradient(#000, #080808);
+  background: -moz-linear-gradient(#000, #080808);
+  background: -o-linear-gradient(#000, #080808);
+  background: -ms-linear-gradient(#000, #080808);
+  background: linear-gradient(#000, #080808);
   /*border: 1px solid #E195A1;*/
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -1497,11 +1491,11 @@ header p {
 #banner .button {
   border: 1px solid #dba500;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#ffe788, #ffce38);
-  background: -moz-linear-gradient(#ffe788, #ffce38);
-  background: -o-linear-gradient(#ffe788, #ffce38);
-  background: -ms-linear-gradient(#ffe788, #ffce38);
-  background: linear-gradient(#ffe788, #ffce38);
+  background: -webkit-linear-gradient(#080808, #000);
+  background: -moz-linear-gradient(#080808, #000);
+  background: -o-linear-gradient(#080808, #000);
+  background: -ms-linear-gradient(#080808, #000);
+  background: linear-gradient(#080808, #000);
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
@@ -1518,7 +1512,7 @@ header p {
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
-  color: #333;
+  color: #fff;
   font-weight: bold;
   display: inline-block;
   text-align: center;
@@ -1571,25 +1565,21 @@ header p {
 
     /*border: 1px solid #D78591;*/
     background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-    background: -webkit-linear-gradient(#FAFAF8, #F9F6F1);
-    background: -moz-linear-gradient(#FAFAF8, #F9F6F1);
-    background: -o-linear-gradient(#FAFAF8, #F9F6F1);
-    background: -ms-linear-gradient(#FAFAF8, #F9F6F1);
-    background: linear-gradient(#FAFAF8, #F9F6F1);
+    background: -webkit-linear-gradient(#080808, #000);
+    background: -moz-linear-gradient(#080808, #000);
+    background: -o-linear-gradient(#080808, #000);
+    background: -ms-linear-gradient(#080808, #000);
+    background: linear-gradient(#080808, #000);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
     -ms-border-radius: 2px;
     -khtml-border-radius: 2px;
     border-radius: 2px;
-    -moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
-    -webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
-    -o-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
-    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
-    background-color: #FFE788;
+    background-color: #000;
     margin-left: 5px;
     margin-right: 5px;
-    color: #333;                     
+    color: #fff;                     
     font-weight: bold;
     text-align: center;
     line-height: 36px;
@@ -1609,7 +1599,6 @@ header p {
     background: -webkit-linear-gradient(#06f337, #7AE5E5);
     background: -moz-linear-gradient(#06f337, #7AE5E5);
     background: -o-linear-gradient(#06f337, #7AE5E5);
-    background: -ms-linear-gradient(#06f337, #7AE5E5);
     background: linear-gradient(#06f337, #7AE5E5);
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
@@ -1731,23 +1720,13 @@ header p {
 }
 
 section {
-  width: 590px;
+  width: 1300px; /*how i widen main bit*/
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
+  margin-left: -340px;
   margin-top: 190px;
   position: relative;
-  background: #f0f0f0;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  -o-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -khtml-border-radius: 3px;
-  border-radius: 3px;
-  border: 1px solid #cbcbcb;
-  -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
-  -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
-  -o-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
-  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
+  background: #fff;
 }
 
 small {
@@ -1793,7 +1772,7 @@ footer {
   width: 180px;
   position: fixed;
   left: 50%;
-  margin-left: -530px;
+  margin-left: -900px;
   bottom: 20px;
   text-align: right;
   line-height: 16px;
@@ -1831,7 +1810,6 @@ footer {
   }
 
   section {
-    border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px auto;
     margin: 190px auto 20px;
