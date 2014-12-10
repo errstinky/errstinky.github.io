@@ -866,7 +866,7 @@ a.box {
   display:block;
   width: 100px;
   height: 20px;
-  font-size: 16px;
+  font-size: 14px;
   color: #fff;
   text-decoration: none;
 }
@@ -1417,7 +1417,7 @@ dt {
 }
 
 header {
-  padding: 35px 20px 3px 20px;
+  padding: 25px 20px 3px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -1460,8 +1460,8 @@ header p {
   text-justify: distribute-all-lines;
   z-index: 100;
   left: 0;
-  right: 8%;
-  height: 30px;
+  right: 6%;
+  height: 20px;
   margin-right: -1080px;
   position: fixed;
   top: 0px;
@@ -1551,12 +1551,12 @@ header p {
 
 .box1, .box2, .box3, .box4 {
     width: 100px;
-    height: 30px;
+    height: 20px;
     display: inline-block;
     *display: inline;
     zoom: 1
     padding: 10px 12px;
-    margin-top: -2px;
+    margin-top: -11px;
     font-size: 14px;
     /*background-color: #fafaf8;*/
 
