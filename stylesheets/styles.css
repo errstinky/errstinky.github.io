@@ -1258,7 +1258,7 @@ table {
 }
 
 body {
-  font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 30px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #666;
   font-weight: 300;
   margin: 0px;
@@ -1460,10 +1460,10 @@ header p {
   z-index: 100;
   left: 0;
   right: 6%;
-  height: 20px;
+  height: 25px;
   margin-right: -1080px;
   position: fixed;
-  top: 0px;
+  top: -5px;
   /*background: #D78591;*/
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#000, #080808);
@@ -1505,7 +1505,7 @@ header p {
   background-color: #FFE788;
   margin-left: 5px;
   padding: 10px 12px;
-  margin-top: 6px;
+  margin-top: 3px;
   line-height: 14px;
   font-size: 14px;
   color: #fff;
@@ -1532,7 +1532,7 @@ header p {
   position: relative;
   /*margin-left: -10%;*/
   padding: 10px 12px;          
-  margin-top: 6px;
+  margin-top: 3px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
@@ -1550,12 +1550,12 @@ header p {
 
 .box1, .box2, .box3, .box4 {
     width: 100px;
-    height: 20px;
+    height: 28px;
     display: inline-block;
     *display: inline;
     zoom: 1
     padding: 10px 12px;
-    margin-top: -11px;
+    margin-top: -16px;
     font-size: 14px;
     /*background-color: #fafaf8;*/
 
@@ -1609,29 +1609,17 @@ header p {
     line-height: 36px;
 }    
 .box1:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#fdfcb8, #F7F514);
-  background: -moz-linear-gradient(#fdfcb8, #F7F514);
-  background: -o-linear-gradient(#fdfcb8, #F7F514);
-  background: -ms-linear-gradient(#fdfcb8, #F7F514);
-  background: linear-gradient(#fdfcb8, #F7F514);
+  color: #eed219 !important;
+  background: #db146f
 
 }       
 .box2:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#FFEE89, #a38ef0);
-  background: -moz-linear-gradient(#FFEE89, #a38ef0);
-  background: -o-linear-gradient(#FFEE89, #a38ef0);
-  background: -ms-linear-gradient(#FFEE89, #a38ef0);
-  background: linear-gradient(#FFEE89, #a38ef0);
+  text-color: #db146f !important;
+  background: #eed219
 }   
 .box3:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#b6ecf3, #41cee0);
-  background: -moz-linear-gradient(#b6ecf3, #41cee0);
-  background: -o-linear-gradient(#b6ecf3, #41cee0);
-  background: -ms-linear-gradient(#b6ecf3, #41cee0);
-  background: linear-gradient(#b6ecf3, #41cee0);
+  text-color: #01a4c3 !important;
+  background: #01a4c3
 }   
 .box4:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
@@ -1842,7 +1830,7 @@ footer {
   }
 
   #banner {
-    top: 80px;
+    top: 0px;
   }
   #banner .fork {
     float: left;
@@ -1881,6 +1869,10 @@ footer {
   font: 12pt 'Press Start 2P', cursive;
 }
 
+#banner {
+  left:0px;
+}
+
     header h2 {
     font-size: 12px;
     white-space: nowrap;
@@ -1900,10 +1892,6 @@ footer {
 
   section {
     margin-top: 5px;
-  }
-
-  #banner {
-    display: none;
   }
 
   header ul {
