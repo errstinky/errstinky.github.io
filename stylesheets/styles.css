@@ -405,18 +405,21 @@ span#treep {
 
 span#big {
   font-family: 'Open Sans', sans-serif; font-weight: 600; 
-  font-size: 3em;
+  font-size: 1.8em;
+  line-height: 3em 0;
 }
 
 span#med {
   font-family: 'Open Sans', sans-serif; font-weight: 400; 
-  font-size: 2em;
+  font-size: .8em;
+  line-height: 2em 0;
 }
 
 span#small {
   font-family: 'Open Sans', sans-serif; font-weight: 300; 
-  font-size: 2em;
+  font-size: .8em;
   font-style: italic;
+  line-height: 2em 0;
 }
 
 /*table{
@@ -462,8 +465,7 @@ boxed {
   display: inline-block;
   background: #F0EEEE;
   margin: 0.67em 0;
-  line-height: 110%;
-  text-align: center;
+  text-align: left;
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
