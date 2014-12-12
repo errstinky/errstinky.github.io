@@ -403,6 +403,22 @@ span#treep {
   text-shadow: 3px 1px 0px #fff;
 }
 
+span#big {
+  font-family: 'Open Sans', sans-serif; font-weight: 600; 
+  font-size: 3em;
+}
+
+span#med {
+  font-family: 'Open Sans', sans-serif; font-weight: 400; 
+  font-size: 2em;
+}
+
+span#small {
+  font-family: 'Open Sans', sans-serif; font-weight: 300; 
+  font-size: 2em;
+  font-style: italic;
+}
+
 /*table{
     border: 1px #333;
     table-layout: fixed;
@@ -442,25 +458,24 @@ th, td {
 }*/
 
 boxed {
-  width: 40%;
-  display: block;
-  background: #fff;
+  width: 48%;
+  display: inline-block;
+  background: #F0EEEE;
   margin: 0.67em 0;
   line-height: 110%;
   text-align: center;
   padding: 15px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
-  -webkit-box-shadow: -10px 10px 0px 0px #7AE5E5;
+  /*-webkit-box-shadow: -10px 10px 0px 0px #7AE5E5;
   -moz-box-shadow:    -10px 10px 0px 0px #7AE5E5;
-  box-shadow:         -10px 10px 0px 0px #7AE5E5;
-  -moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  -o-border-radius: 1px;
-  -ms-border-radius: 1px;
-  -khtml-border-radius: 1px;
-  border-radius: 1px;
-  outline: #7AE5E5 dotted 2px;
+  box-shadow:         -10px 10px 0px 0px #7AE5E5;*/
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border-radius: 5px;
 
 }
 
@@ -879,27 +894,27 @@ a.box {
  * Addresses font sizes within 'section' and 'article' in FF4+, Chrome, S5
  */
 h1 {
-  font-size: 2em;
+  font-size: 3em;
   margin: 0.67em 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.5em;
   margin: 0.83em 0;
 }
 
 h3 {
-  font-size: 1.17em;
+  font-size: 2em;
   margin: 1em 0;
 }
 
 h4 {
-  font-size: 1em;
+  font-size: 1.5em;
   margin: 1.33em 0;
 }
 
 h5 {
-  font-size: 0.83em;
+  font-size: 1em;
   margin: 1.67em 0;
 }
 
@@ -1258,9 +1273,9 @@ table {
 }
 
 body {
-  font: 30px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font: 30px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #666;
-  font-weight: 300;
+  font-weight: 300;*/
   margin: 0px;
   padding: 0px 0 20px 0px;
   background: #fff;
@@ -1423,10 +1438,8 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  
   width: 100%;
   text-align: left;
-  background-image: url("images/big2.jpg");
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
@@ -1460,10 +1473,10 @@ header p {
   z-index: 100;
   left: 0;
   right: 6%;
-  height: 25px;
+  height: 19px;
   margin-right: -1080px;
   position: fixed;
-  top: -5px;
+ 
   /*background: #D78591;*/
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#000, #080808);
