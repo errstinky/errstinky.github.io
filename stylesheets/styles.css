@@ -1483,8 +1483,8 @@ header p {
   z-index: 100;
   left: 0;
   right: 6%;
-  height: 19px;
-  margin-right: -1080px;
+  height: 23px;
+  margin-right: -900px;
   position: fixed;
  
   /*background: #D78591;*/
@@ -1572,13 +1572,14 @@ header p {
 }
 
 .box1, .box2, .box3, .box4 {
-    width: 100px;
+    width: 32.25%;
+    max-width: 100px;
     height: 28px;
     display: inline-block;
     *display: inline;
     zoom: 1
-    padding: 10px 12px;
-    margin-top: -16px;
+    padding: 0px 0px;
+    margin-top: -6px;
     font-size: 14px;
     /*background-color: #fafaf8;*/
     /*border: 1px solid #D78591;*/
@@ -1589,25 +1590,21 @@ header p {
     -khtml-border-radius: 2px;
     border-radius: 2px;
     background-color: #000;
-    margin-left: -5px;
-    margin-right: -5px;
     color: #fff;                     
     font-weight: bold;
     text-align: center;
+    vertical-align: middle;
     line-height: 36px;
 }     
 
-.box1:hover {
-  color: #eed219 !important;
+.box1:hover {;
   background: #db146f
 
 }       
-.box2:hover {
-  text-color: #db146f !important;
+.box2:hover {;
   background: #eed219
 }   
-.box3:hover {
-  text-color: #01a4c3 !important;
+.box3:hover {;
   background: #01a4c3
 }   
 .box4:hover {
@@ -1744,7 +1741,11 @@ footer {
   text-align: right;
   line-height: 16px;
 }
-
+@media print, screen and (max-width: 1920px){
+  #banner {
+    width: 100%;
+  }
+}
 @media print, screen and (max-width: 1060px) {
   div.wrapper {
     width: auto;
