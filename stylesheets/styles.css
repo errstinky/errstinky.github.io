@@ -1590,7 +1590,8 @@ header p {
     -khtml-border-radius: 2px;
     border-radius: 2px;
     background-color: #000;
-    color: #fff;                     
+    color: #fff;      
+    right:0px;               
     font-weight: bold;
     text-align: center;
     vertical-align: middle;
