@@ -463,8 +463,8 @@ th, td {
 
 boxed {
   width: 48%;
+  height: auto;
   display: inline-block;
-  background: #F0EEEE;
   margin: 0.67em 0;
   text-align: left;
   padding: 15px;
@@ -1572,7 +1572,7 @@ header p {
 }
 
 .box1, .box2, .box3, .box4 {
-    width: 32.25%;
+    width: 32%;
     max-width: 100px;
     height: 28px;
     display: inline-block;
@@ -1590,8 +1590,7 @@ header p {
     -khtml-border-radius: 2px;
     border-radius: 2px;
     background-color: #000;
-    color: #fff;      
-    right:0px;               
+    color: #fff;                     
     font-weight: bold;
     text-align: center;
     vertical-align: middle;
