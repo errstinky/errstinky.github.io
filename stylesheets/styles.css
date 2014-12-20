@@ -17,7 +17,7 @@ font-family: 'Press Start 2P', cursive;
   position: relative;   
   min-height: 200px; /* This part sucks */
   clear: both;
-  margin: 25px 0;
+  margin: 0px 0;
 }
 .tab {
   float: left;
@@ -35,17 +35,16 @@ font-family: 'Press Start 2P', cursive;
 }
 .content {
   position: absolute;
-  top: 28px;
+  top: 40px;
   left: 0;
   background: white;
   right: 0;
   bottom: 0;
   padding: 20px;
-  border: 1px solid #ccc; 
 }
 [type=radio]:checked ~ label {
   background: white;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid #ccc;
   z-index: 2;
 }
 [type=radio]:checked ~ label ~ .content {
