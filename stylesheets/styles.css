@@ -608,6 +608,7 @@ boxer {
   margin: 0.67em 0;
   line-height: 100%;
   text-align: left;
+  overflow: auto;
   padding: 40px;
   /*border: 1px solid #ddd;*/
   box-sizing: border-box;
