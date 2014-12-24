@@ -364,21 +364,20 @@ e1.i {
     50% { opacity: 0.0; }
     100% { opacity: 1.0; }
 }
-
 span#ask {
-  text-shadow: 2px 2px 0px #FF8905, 4px 4px 0px #4DC8C8;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #01a4c3;
   font: 80px 'Bangers', cursive;
-  color: #000;
+  color: #db146f;
 }
 span#learn {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #4DC8C8;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #db146f;
   font: 80px 'Bangers', cursive;
-  color: #FF8905;
+  color: #01a4c3;
 }
 span#grow {
-  text-shadow: 2px 2px 0px #fff, 4px 4px 0px #FF8905;
+  text-shadow: 2px 2px 0px #01a4c3, 4px 4px 0px #db146f;
   font: 80px 'Bangers', cursive;
-  color: #4DC8C8;
+  color: #000;
 }
 
 span#feed {
@@ -414,7 +413,7 @@ span#two2 {
 span#three {
   font: 50px 'Bangers', cursive;
   color: #fff;
-  text-shadow: 2px 2px 0px #60dadf, -2px -2px 0px #ffbd44;
+  text-shadow: 2px 2px 0px #eb2680, -2px -2px 0px #01c0e5;
 }
 
 span#threedee {
