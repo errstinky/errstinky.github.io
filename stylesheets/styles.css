@@ -1485,12 +1485,13 @@ hr.side {
   margin: 10px 0px 10px;
 }
 #asd{
-  background: url("../images/nice.png");
+  background: url("../images/nice.jpg");
   background-repeat:no-repeat;
   background-size:contain;
   height:299px; 
   width:1903px; 
   display: inline-block;
+  z-index: 90;
 }
 dt {
   color: #444;
@@ -1541,34 +1542,28 @@ header p {
   margin-right: -900px;
   position: fixed;
  
-  /*background: #D78591;*/
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#000, #080808);
-  background: -moz-linear-gradient(#000, #080808);
-  background: -o-linear-gradient(#000, #080808);
-  background: -ms-linear-gradient(#000, #080808);
-  background: linear-gradient(#000, #080808);
-  /*border: 1px solid #E195A1;*/
-  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -moz-border-radius: 0px 2px 2px 0px;
-  -webkit-border-radius: 0px 2px 2px 0px;
-  -o-border-radius: 0px 2px 2px 0px;
-  -ms-border-radius: 0px 2px 2px 0px;
-  -khtml-border-radius: 0px 2px 2px 0px;
-  border-radius: 0px 2px 2px 0px;
+  background: #2e3133;
   padding-right: 10px;
+}
+#heady {                    
+  text-align: left;
+  left: 0;
+  right: 6%;
+  height: 111px;
+  margin-right: -900px;
+  background: #fff;
+  padding-right: 10px;
+  padding-top:53px;
+  text-indent: 30px;
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+  z-index:95;
+  position:relative;
 }
 #banner .button {
   border: 1px solid #dba500;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#080808, #000);
-  background: -moz-linear-gradient(#080808, #000);
-  background: -o-linear-gradient(#080808, #000);
-  background: -ms-linear-gradient(#080808, #000);
-  background: linear-gradient(#080808, #000);
+  background: #2e3133;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
@@ -1636,7 +1631,7 @@ header p {
     font-size: 14px;
     /*background-color: #fafaf8;*/
     /*border: 1px solid #D78591;*/
-    background-color: #000;
+    background-color: #2e3133;
     color: #fff;                     
     font-weight: bold;
     text-align: center;
@@ -1645,7 +1640,6 @@ header p {
 }     
 .box1:hover {;
   background: #db146f
-
 }       
 .box2:hover {;
   background: #eed219
@@ -1888,6 +1882,7 @@ footer {
     width: 100%;
   }
 }
+
 @media print, screen and (max-width: 1060px) {
   div.wrapper {
     width: auto;
@@ -1895,7 +1890,7 @@ footer {
   }
 
     #asd{
-  background: url("../images/1060.png");
+  background: url("../images/1060.jpg");
   width:100%;
 }
 
@@ -1946,7 +1941,7 @@ footer {
   }
 
   #asd{
-  background: url("../images/720.png");
+  background: url("../images/720.jpg");
   width:100%;
 }
 
@@ -2000,7 +1995,7 @@ footer {
   }
 
     #asd{
-  background: url("../images/480.png");
+  background: url("../images/480.jpg");
   width:100%;
 }
   header h1 {
@@ -2080,7 +2075,7 @@ footer {
   @media print, screen and (max-width: 320px) {
 
     #asd{
-  background: url("../images/320.png");
+  background: url("../images/320.jpg");
   width:100%;
 }
 }
