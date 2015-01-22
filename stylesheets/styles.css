@@ -364,6 +364,16 @@ e1.i {
     50% { opacity: 0.0; }
     100% { opacity: 1.0; }
 }
+span#frank {
+  font: 60px 'Bangers', cursive;
+  color: #fff;
+  -webkit-text-stroke: 1px black;
+}
+span#feedz {
+  font: 20pt 'Press Start 2P', cursive;
+  color: #000;
+  text-decoration:underline;
+}
 span#ask {
   text-shadow: 2px 2px 0px #fff, 4px 4px 0px #01a4c3;
   font: 80px 'Bangers', cursive;
