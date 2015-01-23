@@ -2010,6 +2010,10 @@ footer {
     min-height: 0px;
   }
 
+boxed {
+  width: 99%;
+  }
+
     #asd{
   background: url("../images/480.jpg");
   width:100%;
@@ -2094,4 +2098,7 @@ footer {
   background: url("../images/320.jpg");
   width:100%;
 }
+boxed {
+  width: 99%;
+  }
 }
