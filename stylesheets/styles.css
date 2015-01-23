@@ -370,7 +370,7 @@ span#frank {
   -webkit-text-stroke: 1px black;
 }
 span#feedz {
-  font: 14pt 'Press Start 2P', cursive;
+  font: 18pt 'LCD', normal;
   color: #000;
   text-decoration:underline;
 }
@@ -837,6 +837,14 @@ boxedget:hover {
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'LCD';
+  src: url("../fonts/LCD_Solid.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 
 /* normalize.css 2012-02-07T12:37 UTC - http://github.com/necolas/normalize.css */
