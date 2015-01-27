@@ -56,54 +56,61 @@ font-family: 'Press Start 2P', cursive;
 }
 
 e1 {
-  border-bottom: 3px ridge;
-  width: 29%;
+  width: 200px;
+  height: 83px;
   display: inline-block;
-  margin-right: 2%;
-  margin-left: 2%;
-  font: 20px 'Bangers', cursive;
-  color: #000;
-  text-shadow: 2px 2px 0px #a9a9a9;
+  margin: 0px 17px;
+  padding: 10px;
+  color: #fff;
+  text-shadow: 1px 1px 0px #a9a9a9;
   text-align: center;
+  font-family: 'Open Sans', sans-serif; font-weight: 400; 
+  font-size: 1.2em;
+  line-height: 2em 0;
+  -webkit-box-shadow: 10px 10px 0px 0px #dfdfdf;
+  -moz-box-shadow: 10px 10px 0px 0px #dfdfdf;
+  box-shadow: 10px 10px 0px 0px #dfdfdf;
 }
 
-e1:hover {
-  -webkit-filter: hue-rotate(180deg);
+e1:hover{
+  -webkit-box-shadow: 10px 10px 0px 0px #2e3133;
+  -moz-box-shadow: 10px 10px 0px 0px #2e3133;
+  box-shadow: 10px 10px 0px 0px #2e3133;
 }
 
 e1.a {
-  border-bottom-color: #dedede
+  background: #332b7e
 }
 
 e1.b {
-  border-bottom-color: #ff0000;
+  background: #01a4c3;
 }
 e1.c {
-  border-bottom-color: #ff6600;
+  background: #332b7e;
 }
 
 e1.d {
-  border-bottom-color: #ffff00;
+  background: #01a4c3;
 }
 
 e1.e {
-  border-bottom-color: #66ff00;
+  background: #db146f;
 }
 
 e1.f {
-  border-bottom-color: #0066ff;
+  background: #01a4c3;
 }
 
 e1.g {
-  border-bottom-color: #000066;
+  background: #db146f;
 }
 
 e1.h {
-  border-bottom-color: #cc00cc;
+  background: #01a4c3;
 }
 
 e1.i {
-  border-bottom-color: #111;
+  background: #db146f;
 }
 
 .ani {
@@ -502,6 +509,9 @@ span#bigest {
   line-height: 70px;  
   width:100%;
   background-color:#000;
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
 }
 
 span#medr {
@@ -1571,8 +1581,7 @@ header {
 }
 header h1 {
   font: 50px 'Bangers', cursive;
-  color: #e43afb;/*
-  text-shadow: 2px 2px 0px #e4e1d2, 4px 4px 0px #e9cc10;*/
+  color: #e43afb;/
   margin: 0px;
   white-space: nowrap;
   text-indent: 0px;
@@ -1698,7 +1707,7 @@ header p {
   background: #db146f
 }       
 .box2:hover {;
-  background: #eed219
+  background: #e6d722
 }   
 .box3:hover {;
   background: #01a4c3
