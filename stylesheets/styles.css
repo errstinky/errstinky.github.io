@@ -399,13 +399,13 @@ span#grow {
 
 span#feed {
   text-shadow: 2px 2px 0px #dedede, 4px 4px 0px #7AE5E5;
-  font: 14pt 'Press Start 2P', cursive;
+  font: 14pt 'LCD', cursive;
   color: #000;
 }
 
 span#feed2 {/*
   text-shadow: 2px 2px 0px #35D0D7, -1px -1px 0px #35D0D7, -1px 1px 0px #35D0D7, 1px -1px 0px #35D0D7, -2px -2px 0px #35D0D7, 4px 4px 0px #FF8905;*/
-  font: 18pt 'Press Start 2P', cursive;
+  font: 18pt 'LCD', cursive;
   color: #000;
 }
 
@@ -492,6 +492,7 @@ span#biggest {
   line-height: 3em 0;
   color: #fff;
   vertical-align: middle;
+  
   line-height: 299px;  
   width:100%;
   background-color:#000;
@@ -664,7 +665,6 @@ boxer {
   -khtml-border-radius: 4px;
   border-radius: 4px;
   margin: 0.67em 0;
-  line-height: 100%;
   text-align: left;
   overflow: auto;
   padding: 40px;
@@ -2013,7 +2013,7 @@ footer {
     word-wrap: break-word;
   }
 
-  span#biggest {
+  span#biggest, span#bigest {
     font-size:2em;
   }
   #asd{
@@ -2163,7 +2163,7 @@ boxed {
   width: 99%;
   }
 
-  span#biggest {
+  span#biggest, span#bigest {
     font-size:1.5em;
   }
 }
