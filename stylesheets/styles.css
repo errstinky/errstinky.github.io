@@ -1403,7 +1403,7 @@ body {
   color: #666;
   font-weight: 300;*/
   margin: 0px;
-  padding: 0px 0 20px 0px;
+  padding: 0px 0 0px 0px;
   background: #fff;
 }
 
@@ -1687,7 +1687,7 @@ header p {
 .box1, .box2, .box3, .box4 {
     width: 32%;
     max-width: 100px;
-    height: 23px;
+    height: 22px;
     display: inline-block;
     *display: inline;
     zoom: 1
@@ -1701,7 +1701,7 @@ header p {
     font-weight: bold;
     text-align: center;
     vertical-align: middle;
-    line-height: 22px;
+    line-height: 23px;
 }     
 .box1:hover {;
   background: #db146f
@@ -1749,6 +1749,39 @@ header p {
   -khtml-border-radius: 0px 2px 2px 0px;
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
+}
+
+#foots {                    
+  text-align: center;
+  -ms-text-justify: distribute-all-lines;
+  text-justify: distribute-all-lines;
+  z-index: 99;
+  left: 0;
+  right: 6%;
+  height: 53px;
+  position: relative;
+  color: #fff;
+  padding: 20px;
+  /*background: #D78591;*/
+  background: #2e3133;
+  border-top: 1px solid #000;
+  -moz-box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.25);
+  -o-box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.25);
+  -moz-border-radius: 0px 2px 2px 0px;
+  -webkit-border-radius: 0px 2px 2px 0px;
+  -o-border-radius: 0px 2px 2px 0px;
+  -ms-border-radius: 0px 2px 2px 0px;
+  -khtml-border-radius: 0px 2px 2px 0px;
+  border-radius: 0px 2px 2px 0px;
+  padding-right: 10px;
+}
+#foots a:link{
+  color:#fff;
+}
+#foots a:visited{
+  color:#01a4c3;
 }
 #ban .button {
   border: 1px solid #dba500;
