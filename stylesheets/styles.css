@@ -1987,7 +1987,32 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 1060px) {
+@media print, screen and (max-width: 1600px){
+    #asd{
+  background: url("../images/1600.jpg");
+  width:100%;
+}
+}
+
+@media print, screen and (max-width: 1440px){
+    #asd{
+  background: url("../images/1440.jpg");
+}
+}
+
+@media print, screen and (max-width: 1366px){
+#asd{
+  background: url("../images/1366.jpg");
+}
+}
+
+@media print, screen and (max-width: 1280px){
+#asd{
+  background: url("../images/1280.jpg");
+}
+}
+
+@media print, screen and (max-width: 1024px) {
   div.wrapper {
     width: auto;
     margin: 0;
@@ -1996,8 +2021,7 @@ footer {
   width:100%;
 }
     #asd{
-  background: url("../images/1060.jpg");
-  width:100%;
+  background: url("../images/1024.jpg");
 }
 
   nav {
