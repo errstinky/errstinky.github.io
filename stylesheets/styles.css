@@ -71,7 +71,9 @@ e1 {
   -moz-box-shadow: 10px 10px 0px 0px #dfdfdf;
   box-shadow: 10px 10px 0px 0px #dfdfdf;
 }
-
+e1:link{
+}
+e1:visited{}
 e1:hover{
   -webkit-box-shadow: 10px 10px 0px 0px #2e3133;
   -moz-box-shadow: 10px 10px 0px 0px #2e3133;
@@ -492,10 +494,22 @@ span#biggest {
   line-height: 3em 0;
   color: #fff;
   vertical-align: middle;
-  
   line-height: 299px;  
   width:100%;
   background-color:#000;
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+}
+
+span#biggestw {
+  font-family: 'Open Sans', sans-serif; font-weight: 600; 
+  font-size: 1.5em;
+  line-height: 1.6em;
+  color: #000;
+  vertical-align: middle;
+  width:100%;
+  background-color:#fff;
     -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
@@ -1769,12 +1783,6 @@ header p {
   -webkit-box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.25);
   -o-box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.25);
-  -moz-border-radius: 0px 2px 2px 0px;
-  -webkit-border-radius: 0px 2px 2px 0px;
-  -o-border-radius: 0px 2px 2px 0px;
-  -ms-border-radius: 0px 2px 2px 0px;
-  -khtml-border-radius: 0px 2px 2px 0px;
-  border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 }
 #foots a:link{
@@ -2220,7 +2228,7 @@ boxed {
   width: 99%;
   }
 
-  span#biggest, span#bigest {
+  span#biggest, span#bigest, span#biggestw {
     font-size:1.5em;
   }
 }
